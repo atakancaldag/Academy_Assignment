@@ -1,0 +1,921 @@
+,age,sex,trestbps,chol,fbs,thalch,exang,oldpeak,slope,ca,thal,dataset_Hungary,dataset_Switzerland,dataset_VA Long Beach,cp_atypical angina,cp_non-anginal,cp_typical angina,restecg_normal,restecg_st-t abnormality,fbs_True,exang_True,thal_normal,thal_reversable defect
+0,63,1,145.0,233.0,True,150.0,False,2.3,0,0.0,fixed defect,False,False,False,False,False,True,False,False,True,False,False,False
+1,67,1,160.0,286.0,False,108.0,True,1.5,1,0.0,normal,False,False,False,False,False,False,False,False,False,True,True,False
+2,67,1,120.0,229.0,False,129.0,True,2.6,1,0.0,reversable defect,False,False,False,False,False,False,False,False,False,True,False,True
+3,37,1,130.0,250.0,False,187.0,False,3.5,0,0.0,normal,False,False,False,False,True,False,True,False,False,False,True,False
+4,41,0,130.0,204.0,False,172.0,False,1.4,2,0.0,normal,False,False,False,True,False,False,False,False,False,False,True,False
+5,56,1,120.0,236.0,False,178.0,False,0.8,2,0.0,normal,False,False,False,True,False,False,True,False,False,False,True,False
+6,62,0,140.0,268.0,False,160.0,False,3.6,0,0.0,normal,False,False,False,False,False,False,False,False,False,False,True,False
+7,57,0,120.0,354.0,False,163.0,True,0.6,2,0.0,normal,False,False,False,False,False,False,True,False,False,True,True,False
+8,63,1,130.0,254.0,False,147.0,False,1.4,1,0.0,reversable defect,False,False,False,False,False,False,False,False,False,False,False,True
+9,53,1,140.0,203.0,True,155.0,True,3.1,0,0.0,reversable defect,False,False,False,False,False,False,False,False,True,True,False,True
+10,57,1,140.0,192.0,False,148.0,False,0.4,1,0.0,fixed defect,False,False,False,False,False,False,True,False,False,False,False,False
+11,56,0,140.0,294.0,False,153.0,False,1.3,1,0.0,normal,False,False,False,True,False,False,False,False,False,False,True,False
+12,56,1,130.0,256.0,True,142.0,True,0.6,1,0.0,fixed defect,False,False,False,False,True,False,False,False,True,True,False,False
+13,44,1,120.0,263.0,False,173.0,False,0.0,2,0.0,reversable defect,False,False,False,True,False,False,True,False,False,False,False,True
+14,52,1,170.0,199.0,True,162.0,False,0.5,2,0.0,reversable defect,False,False,False,False,True,False,True,False,True,False,False,True
+15,57,1,150.0,168.0,False,174.0,False,1.6,2,0.0,normal,False,False,False,False,True,False,True,False,False,False,True,False
+16,48,1,110.0,229.0,False,168.0,False,1.0,0,0.0,reversable defect,False,False,False,True,False,False,True,False,False,False,False,True
+17,54,1,140.0,239.0,False,160.0,False,1.2,2,0.0,normal,False,False,False,False,False,False,True,False,False,False,True,False
+18,48,0,130.0,275.0,False,139.0,False,0.2,2,0.0,normal,False,False,False,False,True,False,True,False,False,False,True,False
+19,49,1,130.0,266.0,False,171.0,False,0.6,2,0.0,normal,False,False,False,True,False,False,True,False,False,False,True,False
+20,64,1,110.0,211.0,False,144.0,True,1.8,1,0.0,normal,False,False,False,False,False,True,False,False,False,True,True,False
+21,58,0,150.0,283.0,True,162.0,False,1.0,2,0.0,normal,False,False,False,False,False,True,False,False,True,False,True,False
+22,58,1,120.0,284.0,False,160.0,False,1.8,1,0.0,normal,False,False,False,True,False,False,False,False,False,False,True,False
+23,58,1,132.0,224.0,False,173.0,False,3.2,2,0.0,reversable defect,False,False,False,False,True,False,False,False,False,False,False,True
+24,60,1,130.0,206.0,False,132.0,True,2.4,1,0.0,reversable defect,False,False,False,False,False,False,False,False,False,True,False,True
+25,50,0,120.0,219.0,False,158.0,False,1.6,1,0.0,normal,False,False,False,False,True,False,True,False,False,False,True,False
+26,58,0,120.0,340.0,False,172.0,False,0.0,2,0.0,normal,False,False,False,False,True,False,True,False,False,False,True,False
+27,66,0,150.0,226.0,False,114.0,False,2.6,0,0.0,normal,False,False,False,False,False,True,True,False,False,False,True,False
+28,43,1,150.0,247.0,False,171.0,False,1.5,2,0.0,normal,False,False,False,False,False,False,True,False,False,False,True,False
+29,40,1,110.0,167.0,False,114.0,True,2.0,1,0.0,reversable defect,False,False,False,False,False,False,False,False,False,True,False,True
+30,69,0,140.0,239.0,False,151.0,False,1.8,2,0.0,normal,False,False,False,False,False,True,True,False,False,False,True,False
+31,60,1,117.0,230.0,True,160.0,True,1.4,2,0.0,reversable defect,False,False,False,False,False,False,True,False,True,True,False,True
+32,64,1,140.0,335.0,False,158.0,False,0.0,2,0.0,normal,False,False,False,False,True,False,True,False,False,False,True,False
+33,59,1,135.0,234.0,False,161.0,False,0.5,1,0.0,reversable defect,False,False,False,False,False,False,True,False,False,False,False,True
+34,44,1,130.0,233.0,False,179.0,True,0.4,2,0.0,normal,False,False,False,False,True,False,True,False,False,True,True,False
+35,42,1,140.0,226.0,False,178.0,False,0.0,2,0.0,normal,False,False,False,False,False,False,True,False,False,False,True,False
+36,43,1,120.0,177.0,False,120.0,True,2.5,1,0.0,reversable defect,False,False,False,False,False,False,False,False,False,True,False,True
+37,57,1,150.0,276.0,False,112.0,True,0.6,1,0.0,fixed defect,False,False,False,False,False,False,False,False,False,True,False,False
+38,55,1,132.0,353.0,False,132.0,True,1.2,1,0.0,reversable defect,False,False,False,False,False,False,True,False,False,True,False,True
+39,61,1,150.0,243.0,True,137.0,True,1.0,1,0.0,normal,False,False,False,False,True,False,True,False,True,True,True,False
+40,65,0,150.0,225.0,False,114.0,False,1.0,1,0.0,reversable defect,False,False,False,False,False,False,False,False,False,False,False,True
+41,40,1,140.0,199.0,False,178.0,True,1.4,2,0.0,reversable defect,False,False,False,False,False,True,True,False,False,True,False,True
+42,71,0,160.0,302.0,False,162.0,False,0.4,2,0.0,normal,False,False,False,True,False,False,True,False,False,False,True,False
+43,59,1,150.0,212.0,True,157.0,False,1.6,2,0.0,normal,False,False,False,False,True,False,True,False,True,False,True,False
+44,61,0,130.0,330.0,False,169.0,False,0.0,2,0.0,normal,False,False,False,False,False,False,False,False,False,False,True,False
+45,58,1,112.0,230.0,False,165.0,False,2.5,1,0.0,reversable defect,False,False,False,False,True,False,False,False,False,False,False,True
+46,51,1,110.0,175.0,False,123.0,False,0.6,2,0.0,normal,False,False,False,False,True,False,True,False,False,False,True,False
+47,50,1,150.0,243.0,False,128.0,False,2.6,1,0.0,reversable defect,False,False,False,False,False,False,False,False,False,False,False,True
+48,65,0,140.0,400.875,True,157.0,False,0.8,2,0.0,normal,False,False,False,False,True,False,False,False,True,False,True,False
+49,53,1,130.0,197.0,True,152.0,False,1.2,0,0.0,normal,False,False,False,False,True,False,False,False,True,False,True,False
+50,41,0,105.0,198.0,False,168.0,False,0.0,2,0.0,normal,False,False,False,True,False,False,True,False,False,False,True,False
+51,65,1,120.0,177.0,False,140.0,False,0.4,2,0.0,reversable defect,False,False,False,False,False,False,True,False,False,False,False,True
+52,44,1,112.0,290.0,False,153.0,False,0.0,2,0.0,normal,False,False,False,False,False,False,False,False,False,False,True,False
+53,44,1,130.0,219.0,False,188.0,False,0.0,2,0.0,normal,False,False,False,True,False,False,False,False,False,False,True,False
+54,60,1,130.0,253.0,False,144.0,True,1.4,2,0.0,reversable defect,False,False,False,False,False,False,True,False,False,True,False,True
+55,54,1,124.0,266.0,False,109.0,True,2.2,1,0.0,reversable defect,False,False,False,False,False,False,False,False,False,True,False,True
+56,50,1,140.0,233.0,False,163.0,False,0.6,1,0.0,reversable defect,False,False,False,False,True,False,True,False,False,False,False,True
+57,41,1,110.0,172.0,False,158.0,False,0.0,2,0.0,reversable defect,False,False,False,False,False,False,False,False,False,False,False,True
+58,54,1,125.0,273.0,False,152.0,False,0.5,0,0.0,normal,False,False,False,False,True,False,False,False,False,False,True,False
+59,51,1,125.0,213.0,False,125.0,True,1.4,2,0.0,normal,False,False,False,False,False,True,False,False,False,True,True,False
+60,51,0,130.0,305.0,False,142.0,True,1.2,1,0.0,reversable defect,False,False,False,False,False,False,True,False,False,True,False,True
+61,46,0,142.0,177.0,False,160.0,True,1.4,0,0.0,normal,False,False,False,False,True,False,False,False,False,True,True,False
+62,58,1,128.0,216.0,False,131.0,True,2.2,1,0.0,reversable defect,False,False,False,False,False,False,False,False,False,True,False,True
+63,54,0,135.0,304.0,True,170.0,False,0.0,2,0.0,normal,False,False,False,False,True,False,True,False,True,False,True,False
+64,54,1,120.0,188.0,False,113.0,False,1.4,1,0.0,reversable defect,False,False,False,False,False,False,True,False,False,False,False,True
+65,60,1,145.0,282.0,False,142.0,True,2.8,1,0.0,reversable defect,False,False,False,False,False,False,False,False,False,True,False,True
+66,60,1,140.0,185.0,False,155.0,False,3.0,1,0.0,normal,False,False,False,False,True,False,False,False,False,False,True,False
+67,54,1,150.0,232.0,False,165.0,False,1.6,2,0.0,reversable defect,False,False,False,False,True,False,False,False,False,False,False,True
+68,59,1,170.0,326.0,False,140.0,True,3.4,0,0.0,reversable defect,False,False,False,False,False,False,False,False,False,True,False,True
+69,46,1,150.0,231.0,False,147.0,False,3.6,1,0.0,normal,False,False,False,False,True,False,True,False,False,False,True,False
+70,65,0,155.0,269.0,False,148.0,False,0.8,2,0.0,normal,False,False,False,False,True,False,True,False,False,False,True,False
+71,67,1,125.0,254.0,True,163.0,False,0.2,1,0.0,reversable defect,False,False,False,False,False,False,True,False,True,False,False,True
+72,62,1,120.0,267.0,False,99.0,True,1.8,1,0.0,reversable defect,False,False,False,False,False,False,True,False,False,True,False,True
+73,65,1,110.0,248.0,False,158.0,False,0.6,2,0.0,fixed defect,False,False,False,False,False,False,False,False,False,False,False,False
+74,44,1,110.0,197.0,False,177.0,False,0.0,2,0.0,normal,False,False,False,False,False,False,False,False,False,False,True,False
+75,65,0,160.0,360.0,False,151.0,False,0.8,2,0.0,normal,False,False,False,False,True,False,False,False,False,False,True,False
+76,60,1,125.0,258.0,False,141.0,True,2.8,1,0.0,reversable defect,False,False,False,False,False,False,False,False,False,True,False,True
+77,51,0,140.0,308.0,False,142.0,False,1.5,2,0.0,normal,False,False,False,False,True,False,False,False,False,False,True,False
+78,48,1,130.0,245.0,False,180.0,False,0.2,1,0.0,normal,False,False,False,True,False,False,False,False,False,False,True,False
+79,58,1,150.0,270.0,False,111.0,True,0.8,2,0.0,reversable defect,False,False,False,False,False,False,False,False,False,True,False,True
+80,45,1,104.0,208.0,False,148.0,True,3.0,1,0.0,normal,False,False,False,False,False,False,False,False,False,True,True,False
+81,53,0,130.0,264.0,False,143.0,False,0.4,1,0.0,normal,False,False,False,False,False,False,False,False,False,False,True,False
+82,39,1,140.0,321.0,False,182.0,False,0.0,2,0.0,normal,False,False,False,False,True,False,False,False,False,False,True,False
+83,68,1,170.0,274.0,True,150.0,True,1.6,1,0.0,reversable defect,False,False,False,False,True,False,False,False,True,True,False,True
+84,52,1,120.0,325.0,False,172.0,False,0.2,2,0.0,normal,False,False,False,True,False,False,True,False,False,False,True,False
+85,44,1,140.0,235.0,False,180.0,False,0.0,2,0.0,normal,False,False,False,False,True,False,False,False,False,False,True,False
+86,47,1,138.0,257.0,False,156.0,False,0.0,2,0.0,normal,False,False,False,False,True,False,False,False,False,False,True,False
+87,53,0,128.0,216.0,False,115.0,False,0.0,2,0.0,,False,False,False,False,True,False,False,False,False,False,False,False
+88,53,0,138.0,234.0,False,160.0,False,0.0,2,0.0,normal,False,False,False,False,False,False,False,False,False,False,True,False
+89,51,0,130.0,256.0,False,149.0,False,0.5,2,0.0,normal,False,False,False,False,True,False,False,False,False,False,True,False
+90,66,1,120.0,302.0,False,151.0,False,0.4,1,0.0,normal,False,False,False,False,False,False,False,False,False,False,True,False
+91,62,0,160.0,164.0,False,145.0,False,3.75,0,0.0,reversable defect,False,False,False,False,False,False,False,False,False,False,False,True
+92,62,1,130.0,231.0,False,146.0,False,1.8,1,0.0,reversable defect,False,False,False,False,True,False,True,False,False,False,False,True
+93,44,0,108.0,141.0,False,175.0,False,0.6,1,0.0,normal,False,False,False,False,True,False,True,False,False,False,True,False
+94,63,0,135.0,252.0,False,172.0,False,0.0,2,0.0,normal,False,False,False,False,True,False,False,False,False,False,True,False
+95,52,1,128.0,255.0,False,161.0,True,0.0,2,0.0,reversable defect,False,False,False,False,False,False,True,False,False,True,False,True
+96,59,1,110.0,239.0,False,142.0,True,1.2,1,0.0,reversable defect,False,False,False,False,False,False,False,False,False,True,False,True
+97,60,0,150.0,258.0,False,157.0,False,2.6,1,0.0,reversable defect,False,False,False,False,False,False,False,False,False,False,False,True
+98,52,1,134.0,201.0,False,158.0,False,0.8,2,0.0,normal,False,False,False,True,False,False,True,False,False,False,True,False
+99,48,1,122.0,222.0,False,186.0,False,0.0,2,0.0,normal,False,False,False,False,False,False,False,False,False,False,True,False
+100,45,1,115.0,260.0,False,185.0,False,0.0,2,0.0,normal,False,False,False,False,False,False,False,False,False,False,True,False
+101,34,1,118.0,182.0,False,174.0,False,0.0,2,0.0,normal,False,False,False,False,False,True,False,False,False,False,True,False
+102,57,0,128.0,303.0,False,159.0,False,0.0,2,0.0,normal,False,False,False,False,False,False,False,False,False,False,True,False
+103,71,0,110.0,265.0,True,130.0,False,0.0,2,0.0,normal,False,False,False,False,True,False,False,False,True,False,True,False
+104,49,1,120.0,188.0,False,139.0,False,2.0,1,0.0,reversable defect,False,False,False,False,True,False,True,False,False,False,False,True
+105,54,1,108.0,309.0,False,156.0,False,0.0,2,0.0,reversable defect,False,False,False,True,False,False,True,False,False,False,False,True
+106,59,1,140.0,177.0,False,162.0,True,0.0,2,0.0,reversable defect,False,False,False,False,False,False,True,False,False,True,False,True
+107,57,1,128.0,229.0,False,150.0,False,0.4,1,0.0,reversable defect,False,False,False,False,True,False,False,False,False,False,False,True
+108,61,1,120.0,260.0,False,140.0,True,3.6,1,0.0,reversable defect,False,False,False,False,False,False,True,False,False,True,False,True
+109,39,1,118.0,219.0,False,140.0,False,1.2,1,0.0,reversable defect,False,False,False,False,False,False,True,False,False,False,False,True
+110,61,0,145.0,307.0,False,146.0,True,1.0,1,0.0,reversable defect,False,False,False,False,False,False,False,False,False,True,False,True
+111,56,1,125.0,249.0,True,144.0,True,1.2,1,0.0,normal,False,False,False,False,False,False,False,False,True,True,True,False
+112,52,1,118.0,186.0,False,190.0,False,0.0,1,0.0,fixed defect,False,False,False,False,False,True,False,False,False,False,False,False
+113,43,0,132.0,341.0,True,136.0,True,3.0,1,0.0,reversable defect,False,False,False,False,False,False,False,False,True,True,False,True
+114,62,0,130.0,263.0,False,97.0,False,1.2,1,0.0,reversable defect,False,False,False,False,True,False,True,False,False,False,False,True
+115,41,1,135.0,203.0,False,132.0,False,0.0,1,0.0,fixed defect,False,False,False,True,False,False,True,False,False,False,False,False
+116,58,1,140.0,211.0,True,165.0,False,0.0,2,0.0,normal,False,False,False,False,True,False,False,False,True,False,True,False
+117,35,0,138.0,183.0,False,182.0,False,1.4,2,0.0,normal,False,False,False,False,False,False,True,False,False,False,True,False
+118,63,1,130.0,330.0,True,132.0,True,1.8,2,0.0,reversable defect,False,False,False,False,False,False,False,False,True,True,False,True
+119,65,1,135.0,254.0,False,127.0,False,2.8,1,0.0,reversable defect,False,False,False,False,False,False,False,False,False,False,False,True
+120,48,1,130.0,256.0,True,150.0,True,0.0,2,0.0,reversable defect,False,False,False,False,False,False,False,False,True,True,False,True
+121,63,0,150.0,400.875,False,154.0,False,3.75,1,0.0,reversable defect,False,False,False,False,False,False,False,False,False,False,False,True
+122,51,1,100.0,222.0,False,143.0,True,1.2,1,0.0,normal,False,False,False,False,True,False,True,False,False,True,True,False
+123,55,1,140.0,217.0,False,111.0,True,3.75,0,0.0,reversable defect,False,False,False,False,False,False,True,False,False,True,False,True
+124,65,1,138.0,282.0,True,174.0,False,1.4,1,0.0,normal,False,False,False,False,False,True,False,False,True,False,True,False
+125,45,0,130.0,234.0,False,175.0,False,0.6,1,0.0,normal,False,False,False,True,False,False,False,False,False,False,True,False
+126,56,0,170.0,288.0,True,133.0,True,3.75,0,0.0,reversable defect,False,False,False,False,False,False,False,False,True,True,False,True
+127,54,1,110.0,239.0,False,126.0,True,2.8,1,0.0,reversable defect,False,False,False,False,False,False,True,False,False,True,False,True
+128,44,1,120.0,220.0,False,170.0,False,0.0,2,0.0,normal,False,False,False,True,False,False,True,False,False,False,True,False
+129,62,0,124.0,209.0,False,163.0,False,0.0,2,0.0,normal,False,False,False,False,False,False,True,False,False,False,True,False
+130,54,1,120.0,258.0,False,147.0,False,0.4,1,0.0,reversable defect,False,False,False,False,True,False,False,False,False,False,False,True
+131,51,1,94.0,227.0,False,154.0,True,0.0,2,0.0,reversable defect,False,False,False,False,True,False,True,False,False,True,False,True
+132,29,1,130.0,204.0,False,202.0,False,0.0,2,0.0,normal,False,False,False,True,False,False,False,False,False,False,True,False
+133,51,1,140.0,261.0,False,186.0,True,0.0,2,0.0,normal,False,False,False,False,False,False,False,False,False,True,True,False
+134,43,0,122.0,213.0,False,165.0,False,0.2,1,0.0,normal,False,False,False,False,True,False,True,False,False,False,True,False
+135,55,0,135.0,250.0,False,161.0,False,1.4,1,0.0,normal,False,False,False,True,False,False,False,False,False,False,True,False
+136,70,1,145.0,174.0,False,125.0,True,2.6,0,0.0,reversable defect,False,False,False,False,False,False,True,False,False,True,False,True
+137,62,1,120.0,281.0,False,103.0,False,1.4,1,0.0,reversable defect,False,False,False,True,False,False,False,False,False,False,False,True
+138,35,1,120.0,198.0,False,130.0,True,1.6,1,0.0,reversable defect,False,False,False,False,False,False,True,False,False,True,False,True
+139,51,1,125.0,245.0,True,166.0,False,2.4,1,0.0,normal,False,False,False,False,True,False,False,False,True,False,True,False
+140,59,1,140.0,221.0,False,164.0,True,0.0,2,0.0,normal,False,False,False,True,False,False,True,False,False,True,True,False
+141,59,1,170.0,288.0,False,159.0,False,0.2,1,0.0,reversable defect,False,False,False,False,False,True,False,False,False,False,False,True
+142,52,1,128.0,205.0,True,184.0,False,0.0,2,0.0,normal,False,False,False,True,False,False,True,False,True,False,True,False
+143,64,1,125.0,309.0,False,131.0,True,1.8,1,0.0,reversable defect,False,False,False,False,True,False,True,False,False,True,False,True
+144,58,1,105.0,240.0,False,154.0,True,0.6,1,0.0,reversable defect,False,False,False,False,True,False,False,False,False,True,False,True
+145,47,1,108.0,243.0,False,152.0,False,0.0,2,0.0,normal,False,False,False,False,True,False,True,False,False,False,True,False
+146,57,1,165.0,289.0,True,124.0,False,1.0,1,0.0,reversable defect,False,False,False,False,False,False,False,False,True,False,False,True
+147,41,1,112.0,250.0,False,179.0,False,0.0,2,0.0,normal,False,False,False,False,True,False,True,False,False,False,True,False
+148,45,1,128.0,308.0,False,170.0,False,0.0,2,0.0,normal,False,False,False,True,False,False,False,False,False,False,True,False
+149,60,0,102.0,318.0,False,160.0,False,0.0,2,0.0,normal,False,False,False,False,True,False,True,False,False,False,True,False
+150,52,1,152.0,298.0,True,178.0,False,1.2,1,0.0,reversable defect,False,False,False,False,False,True,True,False,True,False,False,True
+151,42,0,102.0,265.0,False,122.0,False,0.6,1,0.0,normal,False,False,False,False,False,False,False,False,False,False,True,False
+152,67,0,115.0,400.875,False,160.0,False,1.6,1,0.0,reversable defect,False,False,False,False,True,False,False,False,False,False,False,True
+153,55,1,160.0,289.0,False,145.0,True,0.8,1,0.0,reversable defect,False,False,False,False,False,False,False,False,False,True,False,True
+154,64,1,120.0,246.0,False,96.0,True,2.2,0,0.0,normal,False,False,False,False,False,False,False,False,False,True,True,False
+155,70,1,130.0,322.0,False,109.0,False,2.4,1,0.0,normal,False,False,False,False,False,False,False,False,False,False,True,False
+156,51,1,140.0,299.0,False,173.0,True,1.6,2,0.0,reversable defect,False,False,False,False,False,False,True,False,False,True,False,True
+157,58,1,125.0,300.0,False,171.0,False,0.0,2,0.0,reversable defect,False,False,False,False,False,False,False,False,False,False,False,True
+158,60,1,140.0,293.0,False,170.0,False,1.2,1,0.0,reversable defect,False,False,False,False,False,False,False,False,False,False,False,True
+159,68,1,118.0,277.0,False,151.0,False,1.0,2,0.0,reversable defect,False,False,False,False,True,False,True,False,False,False,False,True
+160,46,1,101.0,197.0,True,156.0,False,0.0,2,0.0,reversable defect,False,False,False,True,False,False,True,False,True,False,False,True
+161,77,1,125.0,304.0,False,162.0,True,0.0,2,0.0,normal,False,False,False,False,False,False,False,False,False,True,True,False
+162,54,0,110.0,214.0,False,158.0,False,1.6,1,0.0,normal,False,False,False,False,True,False,True,False,False,False,True,False
+163,58,0,100.0,248.0,False,122.0,False,1.0,1,0.0,normal,False,False,False,False,False,False,False,False,False,False,True,False
+164,48,1,124.0,255.0,True,175.0,False,0.0,2,0.0,normal,False,False,False,False,True,False,True,False,True,False,True,False
+165,57,1,132.0,207.0,False,168.0,True,0.0,2,0.0,reversable defect,False,False,False,False,False,False,True,False,False,True,False,True
+166,52,1,138.0,223.0,False,169.0,False,0.0,2,0.0,normal,False,False,False,False,True,False,True,False,False,False,True,False
+167,54,0,132.0,288.0,True,159.0,True,0.0,2,0.0,normal,False,False,False,True,False,False,False,False,True,True,True,False
+168,35,1,126.0,282.0,False,156.0,True,0.0,2,0.0,reversable defect,False,False,False,False,False,False,False,False,False,True,False,True
+169,45,0,112.0,160.0,False,138.0,False,0.0,1,0.0,normal,False,False,False,True,False,False,True,False,False,False,True,False
+170,70,1,160.0,269.0,False,112.0,True,2.9,1,0.0,reversable defect,False,False,False,False,True,False,True,False,False,True,False,True
+171,53,1,142.0,226.0,False,111.0,True,0.0,2,0.0,reversable defect,False,False,False,False,False,False,False,False,False,True,False,True
+172,59,0,170.0,249.0,False,143.0,True,0.0,1,0.0,normal,False,False,False,False,False,False,True,False,False,True,True,False
+173,62,0,140.0,394.0,False,157.0,False,1.2,1,0.0,normal,False,False,False,False,False,False,False,False,False,False,True,False
+174,64,1,145.0,212.0,False,132.0,False,2.0,1,0.0,fixed defect,False,False,False,False,False,False,False,False,False,False,False,False
+175,57,1,152.0,274.0,False,88.0,True,1.2,1,0.0,reversable defect,False,False,False,False,False,False,True,False,False,True,False,True
+176,52,1,108.0,233.0,True,147.0,False,0.1,2,0.0,reversable defect,False,False,False,False,False,False,True,False,True,False,False,True
+177,56,1,132.0,184.0,False,105.0,True,2.1,1,0.0,fixed defect,False,False,False,False,False,False,False,False,False,True,False,False
+178,43,1,130.0,315.0,False,162.0,False,1.9,2,0.0,normal,False,False,False,False,True,False,True,False,False,False,True,False
+179,53,1,130.0,246.0,True,173.0,False,0.0,2,0.0,normal,False,False,False,False,True,False,False,False,True,False,True,False
+180,48,1,124.0,274.0,False,166.0,False,0.5,1,0.0,reversable defect,False,False,False,False,False,False,False,False,False,False,False,True
+181,56,0,134.0,400.875,False,150.0,True,1.9,1,0.0,reversable defect,False,False,False,False,False,False,False,False,False,True,False,True
+182,42,1,148.0,244.0,False,178.0,False,0.8,2,0.0,normal,False,False,False,False,False,True,False,False,False,False,True,False
+183,59,1,170.0,270.0,False,145.0,False,3.75,0,0.0,reversable defect,False,False,False,False,False,True,False,False,False,False,False,True
+184,60,0,158.0,305.0,False,161.0,False,0.0,2,0.0,normal,False,False,False,False,False,False,False,False,False,False,True,False
+185,63,0,140.0,195.0,False,179.0,False,0.0,2,0.0,normal,False,False,False,True,False,False,True,False,False,False,True,False
+186,42,1,120.0,240.0,True,194.0,False,0.8,0,0.0,reversable defect,False,False,False,False,True,False,True,False,True,False,False,True
+187,66,1,160.0,246.0,False,120.0,True,0.0,1,0.0,fixed defect,False,False,False,True,False,False,True,False,False,True,False,False
+188,54,1,170.0,283.0,False,195.0,False,0.0,2,0.0,reversable defect,False,False,False,True,False,False,False,False,False,False,False,True
+189,69,1,140.0,254.0,False,146.0,False,2.0,1,0.0,reversable defect,False,False,False,False,True,False,False,False,False,False,False,True
+190,50,1,129.0,196.0,False,163.0,False,0.0,2,0.0,normal,False,False,False,False,True,False,True,False,False,False,True,False
+191,51,1,140.0,298.0,False,122.0,True,3.75,1,0.0,reversable defect,False,False,False,False,False,False,True,False,False,True,False,True
+192,43,1,132.0,247.0,True,143.0,True,0.1,1,0.0,reversable defect,False,False,False,False,False,False,False,False,True,True,False,True
+193,62,0,138.0,294.0,True,106.0,False,1.9,1,0.0,normal,False,False,False,False,False,False,True,False,True,False,True,False
+194,68,0,120.0,211.0,False,115.0,False,1.5,1,0.0,normal,False,False,False,False,True,False,False,False,False,False,True,False
+195,67,1,100.0,299.0,False,125.0,True,0.9,1,0.0,normal,False,False,False,False,False,False,False,False,False,True,True,False
+196,69,1,160.0,234.0,True,131.0,False,0.1,1,0.0,normal,False,False,False,False,False,True,False,False,True,False,True,False
+197,45,0,138.0,236.0,False,152.0,True,0.2,1,0.0,normal,False,False,False,False,False,False,False,False,False,True,True,False
+198,50,0,120.0,244.0,False,162.0,False,1.1,2,0.0,normal,False,False,False,True,False,False,True,False,False,False,True,False
+199,59,1,160.0,273.0,False,125.0,False,0.0,2,0.0,normal,False,False,False,False,False,True,False,False,False,False,True,False
+200,50,0,110.0,254.0,False,159.0,False,0.0,2,0.0,normal,False,False,False,False,False,False,False,False,False,False,True,False
+201,64,0,170.0,325.0,False,154.0,True,0.0,2,0.0,normal,False,False,False,False,False,False,True,False,False,True,True,False
+202,57,1,150.0,126.0,True,173.0,False,0.2,2,0.0,reversable defect,False,False,False,False,True,False,True,False,True,False,False,True
+203,64,0,140.0,313.0,False,133.0,False,0.2,2,0.0,reversable defect,False,False,False,False,True,False,True,False,False,False,False,True
+204,43,1,110.0,211.0,False,161.0,False,0.0,2,0.0,reversable defect,False,False,False,False,False,False,True,False,False,False,False,True
+205,45,1,142.0,309.0,False,147.0,True,0.0,1,0.0,reversable defect,False,False,False,False,False,False,False,False,False,True,False,True
+206,58,1,128.0,259.0,False,130.0,True,3.0,1,0.0,reversable defect,False,False,False,False,False,False,False,False,False,True,False,True
+207,50,1,144.0,200.0,False,126.0,True,0.9,1,0.0,reversable defect,False,False,False,False,False,False,False,False,False,True,False,True
+208,55,1,130.0,262.0,False,155.0,False,0.0,2,0.0,normal,False,False,False,True,False,False,True,False,False,False,True,False
+209,62,0,150.0,244.0,False,154.0,True,1.4,1,0.0,normal,False,False,False,False,False,False,True,False,False,True,True,False
+210,37,0,120.0,215.0,False,170.0,False,0.0,2,0.0,normal,False,False,False,False,True,False,True,False,False,False,True,False
+211,38,1,120.0,231.0,False,182.0,True,3.75,1,0.0,reversable defect,False,False,False,False,False,True,True,False,False,True,False,True
+212,41,1,130.0,214.0,False,168.0,False,2.0,1,0.0,normal,False,False,False,False,True,False,False,False,False,False,True,False
+213,66,0,170.0,228.0,True,165.0,True,1.0,1,0.0,reversable defect,False,False,False,False,False,False,True,False,True,True,False,True
+214,52,1,112.0,230.0,False,160.0,False,0.0,2,0.0,normal,False,False,False,False,False,False,True,False,False,False,True,False
+215,56,1,120.0,193.0,False,162.0,False,1.9,1,0.0,reversable defect,False,False,False,False,False,True,False,False,False,False,False,True
+216,46,0,105.0,204.0,False,172.0,False,0.0,2,0.0,normal,False,False,False,True,False,False,True,False,False,False,True,False
+217,46,0,138.0,243.0,False,152.0,True,0.0,1,0.0,normal,False,False,False,False,False,False,False,False,False,True,True,False
+218,64,0,130.0,303.0,False,122.0,False,2.0,1,0.0,normal,False,False,False,False,False,False,True,False,False,False,True,False
+219,59,1,138.0,271.0,False,182.0,False,0.0,2,0.0,normal,False,False,False,False,False,False,False,False,False,False,True,False
+220,41,0,112.0,268.0,False,172.0,True,0.0,2,0.0,normal,False,False,False,False,True,False,False,False,False,True,True,False
+221,54,0,108.0,267.0,False,167.0,False,0.0,2,0.0,normal,False,False,False,False,True,False,False,False,False,False,True,False
+222,39,0,94.0,199.0,False,179.0,False,0.0,2,0.0,normal,False,False,False,False,True,False,True,False,False,False,True,False
+223,53,1,123.0,282.0,False,95.0,True,2.0,1,0.0,reversable defect,False,False,False,False,False,False,True,False,False,True,False,True
+224,63,0,108.0,269.0,False,169.0,True,1.8,1,0.0,normal,False,False,False,False,False,False,True,False,False,True,True,False
+225,34,0,118.0,210.0,False,192.0,False,0.7,2,0.0,normal,False,False,False,True,False,False,True,False,False,False,True,False
+226,47,1,112.0,204.0,False,143.0,False,0.1,2,0.0,normal,False,False,False,False,False,False,True,False,False,False,True,False
+227,67,0,152.0,277.0,False,172.0,False,0.0,2,0.0,normal,False,False,False,False,True,False,True,False,False,False,True,False
+228,54,1,110.0,206.0,False,108.0,True,0.0,1,0.0,normal,False,False,False,False,False,False,False,False,False,True,True,False
+229,66,1,112.0,212.0,False,132.0,True,0.1,2,0.0,normal,False,False,False,False,False,False,False,False,False,True,True,False
+230,52,0,136.0,196.0,False,169.0,False,0.1,1,0.0,normal,False,False,False,False,True,False,False,False,False,False,True,False
+231,55,0,170.0,327.0,False,117.0,True,3.4,1,0.0,normal,False,False,False,False,False,False,False,True,False,True,True,False
+232,49,1,118.0,149.0,False,126.0,False,0.8,2,0.0,normal,False,False,False,False,True,False,False,False,False,False,True,False
+233,74,0,120.0,269.0,False,121.0,True,0.2,2,0.0,normal,False,False,False,True,False,False,False,False,False,True,True,False
+234,54,0,160.0,201.0,False,163.0,False,0.0,2,0.0,normal,False,False,False,False,True,False,True,False,False,False,True,False
+235,54,1,122.0,286.0,False,116.0,True,3.2,1,0.0,normal,False,False,False,False,False,False,False,False,False,True,True,False
+236,56,1,130.0,283.0,True,103.0,True,1.6,0,0.0,reversable defect,False,False,False,False,False,False,False,False,True,True,False,True
+237,46,1,120.0,249.0,False,144.0,False,0.8,2,0.0,reversable defect,False,False,False,False,False,False,False,False,False,False,False,True
+238,49,0,134.0,271.0,False,162.0,False,0.0,1,0.0,normal,False,False,False,True,False,False,True,False,False,False,True,False
+239,42,1,120.0,295.0,False,162.0,False,0.0,2,0.0,normal,False,False,False,True,False,False,True,False,False,False,True,False
+240,41,1,110.0,235.0,False,153.0,False,0.0,2,0.0,normal,False,False,False,True,False,False,True,False,False,False,True,False
+241,41,0,126.0,306.0,False,163.0,False,0.0,2,0.0,normal,False,False,False,True,False,False,True,False,False,False,True,False
+242,49,0,130.0,269.0,False,163.0,False,0.0,2,0.0,normal,False,False,False,False,False,False,True,False,False,False,True,False
+243,61,1,134.0,234.0,False,145.0,False,2.6,1,0.0,normal,False,False,False,False,False,True,True,False,False,False,True,False
+244,60,0,120.0,178.0,True,96.0,False,0.0,2,0.0,normal,False,False,False,False,True,False,True,False,True,False,True,False
+245,67,1,120.0,237.0,False,71.0,False,1.0,1,0.0,normal,False,False,False,False,False,False,True,False,False,False,True,False
+246,58,1,100.0,234.0,False,156.0,False,0.1,2,0.0,reversable defect,False,False,False,False,False,False,True,False,False,False,False,True
+247,47,1,110.0,275.0,False,118.0,True,1.0,1,0.0,normal,False,False,False,False,False,False,False,False,False,True,True,False
+248,52,1,125.0,212.0,False,168.0,False,1.0,2,0.0,reversable defect,False,False,False,False,False,False,True,False,False,False,False,True
+249,62,1,128.0,208.0,True,140.0,False,0.0,2,0.0,normal,False,False,False,True,False,False,False,False,True,False,True,False
+250,57,1,110.0,201.0,False,126.0,True,1.5,1,0.0,fixed defect,False,False,False,False,False,False,True,False,False,True,False,False
+251,58,1,146.0,218.0,False,105.0,False,2.0,1,0.0,reversable defect,False,False,False,False,False,False,True,False,False,False,False,True
+252,64,1,128.0,263.0,False,105.0,True,0.2,1,0.0,reversable defect,False,False,False,False,False,False,True,False,False,True,False,True
+253,51,0,120.0,295.0,False,157.0,False,0.6,2,0.0,normal,False,False,False,False,True,False,False,False,False,False,True,False
+254,43,1,115.0,303.0,False,181.0,False,1.2,1,0.0,normal,False,False,False,False,False,False,True,False,False,False,True,False
+255,42,0,120.0,209.0,False,173.0,False,0.0,1,0.0,normal,False,False,False,False,True,False,True,False,False,False,True,False
+256,67,0,106.0,223.0,False,142.0,False,0.3,2,0.0,normal,False,False,False,False,False,False,True,False,False,False,True,False
+257,76,0,140.0,197.0,False,116.0,False,1.1,1,0.0,normal,False,False,False,False,True,False,False,True,False,False,True,False
+258,70,1,156.0,245.0,False,143.0,False,0.0,2,0.0,normal,False,False,False,True,False,False,False,False,False,False,True,False
+259,57,1,124.0,261.0,False,141.0,False,0.3,2,0.0,reversable defect,False,False,False,True,False,False,True,False,False,False,False,True
+260,44,0,118.0,242.0,False,149.0,False,0.3,1,0.0,normal,False,False,False,False,True,False,True,False,False,False,True,False
+261,58,0,136.0,319.0,True,152.0,False,0.0,2,0.0,normal,False,False,False,True,False,False,False,False,True,False,True,False
+262,60,0,150.0,240.0,False,171.0,False,0.9,2,0.0,normal,False,False,False,False,False,True,True,False,False,False,True,False
+263,44,1,120.0,226.0,False,169.0,False,0.0,2,0.0,normal,False,False,False,False,True,False,True,False,False,False,True,False
+264,61,1,138.0,166.0,False,125.0,True,3.6,1,0.0,normal,False,False,False,False,False,False,False,False,False,True,True,False
+265,42,1,136.0,315.0,False,125.0,True,1.8,1,0.0,fixed defect,False,False,False,False,False,False,True,False,False,True,False,False
+266,52,1,128.0,204.0,True,156.0,True,1.0,1,0.0,,False,False,False,False,False,False,True,False,True,True,False,False
+267,59,1,126.0,218.0,True,134.0,False,2.2,1,0.0,fixed defect,False,False,False,False,True,False,True,False,True,False,False,False
+268,40,1,152.0,223.0,False,181.0,False,0.0,2,0.0,reversable defect,False,False,False,False,False,False,True,False,False,False,False,True
+269,42,1,130.0,180.0,False,150.0,False,0.0,2,0.0,normal,False,False,False,False,True,False,True,False,False,False,True,False
+270,61,1,140.0,207.0,False,138.0,True,1.9,2,0.0,reversable defect,False,False,False,False,False,False,False,False,False,True,False,True
+271,66,1,160.0,228.0,False,138.0,False,2.3,2,0.0,fixed defect,False,False,False,False,False,False,False,False,False,False,False,False
+272,46,1,140.0,311.0,False,120.0,True,1.8,1,0.0,reversable defect,False,False,False,False,False,False,True,False,False,True,False,True
+273,71,0,112.0,149.0,False,125.0,False,1.6,1,0.0,normal,False,False,False,False,False,False,True,False,False,False,True,False
+274,59,1,134.0,204.0,False,162.0,False,0.8,2,0.0,normal,False,False,False,False,False,True,True,False,False,False,True,False
+275,64,1,170.0,227.0,False,155.0,False,0.6,1,0.0,reversable defect,False,False,False,False,False,True,False,False,False,False,False,True
+276,66,0,146.0,278.0,False,152.0,False,0.0,1,0.0,normal,False,False,False,False,True,False,False,False,False,False,True,False
+277,39,0,138.0,220.0,False,152.0,False,0.0,1,0.0,normal,False,False,False,False,True,False,True,False,False,False,True,False
+278,57,1,154.0,232.0,False,164.0,False,0.0,2,0.0,normal,False,False,False,True,False,False,False,False,False,False,True,False
+279,58,0,130.0,197.0,False,131.0,False,0.6,1,0.0,normal,False,False,False,False,False,False,True,False,False,False,True,False
+280,57,1,110.0,335.0,False,143.0,True,3.0,1,0.0,reversable defect,False,False,False,False,False,False,True,False,False,True,False,True
+281,47,1,130.0,253.0,False,179.0,False,0.0,2,0.0,normal,False,False,False,False,True,False,True,False,False,False,True,False
+282,55,0,128.0,205.0,False,130.0,True,2.0,1,0.0,reversable defect,False,False,False,False,False,False,False,True,False,True,False,True
+283,35,1,122.0,192.0,False,174.0,False,0.0,2,0.0,normal,False,False,False,True,False,False,True,False,False,False,True,False
+284,61,1,148.0,203.0,False,161.0,False,0.0,2,0.0,reversable defect,False,False,False,False,False,False,True,False,False,False,False,True
+285,58,1,114.0,318.0,False,140.0,False,3.75,0,0.0,fixed defect,False,False,False,False,False,False,False,True,False,False,False,False
+286,58,0,170.0,225.0,True,146.0,True,2.8,1,0.0,fixed defect,False,False,False,False,False,False,False,False,True,True,False,False
+287,58,1,125.0,220.0,False,144.0,False,0.4,1,0.0,reversable defect,False,False,False,True,False,False,True,False,False,False,False,True
+288,56,1,130.0,221.0,False,163.0,False,0.0,2,0.0,reversable defect,False,False,False,True,False,False,False,False,False,False,False,True
+289,56,1,120.0,240.0,False,169.0,False,0.0,0,0.0,normal,False,False,False,True,False,False,True,False,False,False,True,False
+290,67,1,152.0,212.0,False,150.0,False,0.8,1,0.0,reversable defect,False,False,False,False,True,False,False,False,False,False,False,True
+291,55,0,132.0,342.0,False,166.0,False,1.2,2,0.0,normal,False,False,False,True,False,False,True,False,False,False,True,False
+292,44,1,120.0,169.0,False,144.0,True,2.8,0,0.0,fixed defect,False,False,False,False,False,False,True,False,False,True,False,False
+293,63,1,140.0,187.0,False,144.0,True,3.75,2,0.0,reversable defect,False,False,False,False,False,False,False,False,False,True,False,True
+294,63,0,124.0,197.0,False,136.0,True,0.0,1,0.0,normal,False,False,False,False,False,False,True,False,False,True,True,False
+295,41,1,120.0,157.0,False,182.0,False,0.0,2,0.0,normal,False,False,False,True,False,False,True,False,False,False,True,False
+296,59,1,164.0,176.0,True,90.0,False,1.0,1,0.0,fixed defect,False,False,False,False,False,False,False,False,True,False,False,False
+297,57,0,140.0,241.0,False,123.0,True,0.2,1,0.0,reversable defect,False,False,False,False,False,False,True,False,False,True,False,True
+298,45,1,110.0,264.0,False,132.0,False,1.2,1,0.0,reversable defect,False,False,False,False,False,True,True,False,False,False,False,True
+299,68,1,144.0,193.0,True,141.0,False,3.4,1,0.0,reversable defect,False,False,False,False,False,False,True,False,True,False,False,True
+300,57,1,130.0,131.0,False,115.0,True,1.2,1,0.0,reversable defect,False,False,False,False,False,False,True,False,False,True,False,True
+301,57,0,130.0,236.0,False,174.0,False,0.0,1,0.0,normal,False,False,False,True,False,False,False,False,False,False,True,False
+302,38,1,138.0,175.0,False,173.0,False,0.0,2,0.0,normal,False,False,False,False,True,False,True,False,False,False,True,False
+303,28,1,130.0,132.0,False,185.0,False,0.0,3,0.0,,False,False,False,True,False,False,False,False,False,False,False,False
+304,29,1,120.0,243.0,False,160.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+305,29,1,140.0,199.13033707865168,False,170.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+306,30,0,170.0,237.0,False,170.0,False,0.0,3,0.0,fixed defect,True,False,False,False,False,True,False,True,False,False,False,False
+307,31,0,100.0,219.0,False,150.0,False,0.0,3,0.0,,True,False,False,True,False,False,False,True,False,False,False,False
+308,32,0,105.0,198.0,False,165.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+309,32,1,110.0,225.0,False,184.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+310,32,1,125.0,254.0,False,155.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+311,33,1,120.0,298.0,False,185.0,False,0.0,3,0.0,,True,False,False,False,True,False,True,False,False,False,False,False
+312,34,0,130.0,161.0,False,190.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+313,34,1,150.0,214.0,False,168.0,False,0.0,3,0.0,,True,False,False,True,False,False,False,True,False,False,False,False
+314,34,1,98.0,220.0,False,150.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+315,35,0,120.0,160.0,False,185.0,False,0.0,3,0.0,,True,False,False,False,False,True,False,True,False,False,False,False
+316,35,0,140.0,167.0,False,150.0,False,0.0,3,0.0,,True,False,False,False,False,False,True,False,False,False,False,False
+317,35,1,120.0,308.0,False,180.0,False,0.0,3,0.0,,True,False,False,True,False,False,False,False,False,False,False,False
+318,35,1,150.0,264.0,False,168.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+319,36,1,120.0,166.0,False,180.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+320,36,1,112.0,340.0,False,184.0,False,1.0,1,0.0,normal,True,False,False,False,True,False,True,False,False,False,True,False
+321,36,1,130.0,209.0,False,178.0,False,0.0,3,0.0,,True,False,False,False,True,False,True,False,False,False,False,False
+322,36,1,150.0,160.0,False,172.0,False,0.0,3,0.0,,True,False,False,False,True,False,True,False,False,False,False,False
+323,37,0,120.0,260.0,False,130.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+324,37,0,130.0,211.0,False,142.0,False,0.0,3,0.0,,True,False,False,False,True,False,True,False,False,False,False,False
+325,37,0,130.0,173.0,False,184.0,False,0.0,3,0.0,,True,False,False,False,False,False,False,True,False,False,False,False
+326,37,1,130.0,283.0,False,98.0,False,0.0,3,0.0,,True,False,False,True,False,False,False,True,False,False,False,False
+327,37,1,130.0,194.0,False,150.0,False,0.0,3,0.0,,True,False,False,False,True,False,True,False,False,False,False,False
+328,37,1,120.0,223.0,False,168.0,False,0.0,3,0.0,normal,True,False,False,False,False,False,True,False,False,False,True,False
+329,37,1,130.0,315.0,False,158.0,False,0.0,3,0.0,,True,False,False,False,False,False,True,False,False,False,False,False
+330,38,0,120.0,275.0,,129.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+331,38,1,140.0,297.0,False,150.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+332,38,1,145.0,292.0,False,130.0,False,0.0,3,0.0,,True,False,False,False,True,False,True,False,False,False,False,False
+333,39,0,110.0,182.0,False,180.0,False,0.0,3,0.0,,True,False,False,False,True,False,False,True,False,False,False,False
+334,39,1,120.0,199.13033707865168,False,146.0,False,2.0,2,0.0,,True,False,False,True,False,False,False,True,False,False,False,False
+335,39,1,120.0,200.0,False,160.0,True,1.0,1,0.0,,True,False,False,True,False,False,True,False,False,True,False,False
+336,39,1,120.0,204.0,False,145.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+337,39,1,130.0,199.13033707865168,False,120.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+338,39,1,170.0,241.0,False,106.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+339,39,1,120.0,339.0,False,170.0,False,0.0,3,0.0,,True,False,False,False,True,False,True,False,False,False,False,False
+340,39,1,160.0,147.0,True,160.0,False,0.0,3,0.0,,True,False,False,False,True,False,True,False,True,False,False,False
+341,39,1,110.0,273.0,False,132.0,False,0.0,3,0.0,,True,False,False,False,False,False,True,False,False,False,False,False
+342,39,1,130.0,307.0,False,140.0,False,0.0,3,0.0,,True,False,False,False,False,False,True,False,False,False,False,False
+343,40,1,130.0,275.0,False,150.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+344,40,1,140.0,289.0,False,172.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+345,40,1,130.0,215.0,False,138.0,False,0.0,3,0.0,,True,False,False,False,True,False,True,False,False,False,False,False
+346,40,1,130.0,281.0,False,167.0,False,0.0,3,0.0,,True,False,False,False,True,False,True,False,False,False,False,False
+347,40,1,140.0,199.13033707865168,False,188.0,False,0.0,3,0.0,,True,False,False,False,True,False,True,False,False,False,False,False
+348,41,0,110.0,250.0,False,142.0,False,0.0,3,0.0,,True,False,False,True,False,False,False,True,False,False,False,False
+349,41,0,125.0,184.0,False,180.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+350,41,0,130.0,245.0,False,150.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+351,41,1,120.0,291.0,False,160.0,False,0.0,3,0.0,,True,False,False,True,False,False,False,True,False,False,False,False
+352,41,1,120.0,295.0,False,170.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+353,41,1,125.0,269.0,False,144.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+354,41,1,112.0,250.0,False,142.0,False,0.0,3,0.0,,True,False,False,False,False,False,True,False,False,False,False,False
+355,42,0,115.0,211.0,False,137.0,False,0.0,3,0.0,,True,False,False,False,True,False,False,True,False,False,False,False
+356,42,1,120.0,196.0,False,150.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+357,42,1,120.0,198.0,False,155.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+358,42,1,150.0,268.0,False,136.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+359,42,1,120.0,228.0,False,152.0,True,1.5,1,0.0,,True,False,False,False,True,False,True,False,False,True,False,False
+360,42,1,160.0,147.0,False,146.0,False,0.0,3,0.0,,True,False,False,False,True,False,True,False,False,False,False,False
+361,42,1,140.0,358.0,False,170.0,False,0.0,3,0.0,,True,False,False,False,False,False,True,False,False,False,False,False
+362,43,0,100.0,223.0,False,142.0,False,0.0,3,0.0,,True,False,False,False,False,True,True,False,False,False,False,False
+363,43,0,120.0,201.0,False,165.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+364,43,0,120.0,215.0,False,175.0,False,0.0,3,0.0,,True,False,False,True,False,False,False,True,False,False,False,False
+365,43,0,120.0,249.0,False,176.0,False,0.0,3,0.0,,True,False,False,True,False,False,False,True,False,False,False,False
+366,43,0,120.0,266.0,False,118.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+367,43,0,150.0,186.0,False,154.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+368,43,0,150.0,199.13033707865168,False,175.0,False,0.0,3,0.0,normal,True,False,False,False,True,False,True,False,False,False,True,False
+369,43,1,142.0,207.0,False,138.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+370,44,0,120.0,218.0,False,115.0,False,0.0,3,0.0,,True,False,False,False,False,False,False,True,False,False,False,False
+371,44,1,120.0,184.0,False,142.0,False,1.0,1,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+372,44,1,130.0,215.0,False,135.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+373,44,1,150.0,400.875,False,170.0,False,0.0,3,0.0,,True,False,False,False,False,False,True,False,False,False,False,False
+374,45,0,130.0,237.0,False,170.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+375,45,0,170.0,199.13033707865168,False,180.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+376,45,0,132.0,297.0,False,144.0,False,0.0,3,0.0,,True,False,False,False,False,False,True,False,False,False,False,False
+377,45,1,140.0,224.0,True,122.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,True,False,False,False
+378,45,1,135.0,199.13033707865168,False,110.0,False,0.0,3,0.0,,True,False,False,False,True,False,True,False,False,False,False,False
+379,45,1,120.0,225.0,False,140.0,False,0.0,3,0.0,,True,False,False,False,False,False,True,False,False,False,False,False
+380,45,1,140.0,224.0,False,144.0,False,0.0,3,0.0,,True,False,False,False,False,False,True,False,False,False,False,False
+381,46,0,130.0,238.0,False,90.0,False,0.0,3,0.0,,True,False,False,False,False,False,True,False,False,False,False,False
+382,46,1,140.0,275.0,False,165.0,True,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,True,False,False
+383,46,1,120.0,230.0,False,150.0,False,0.0,3,0.0,,True,False,False,False,True,False,True,False,False,False,False,False
+384,46,1,150.0,163.0,,116.0,False,0.0,3,0.0,,True,False,False,False,True,False,True,False,False,False,False,False
+385,46,1,110.0,238.0,False,140.0,True,1.0,1,0.0,normal,True,False,False,False,False,False,False,True,False,True,True,False
+386,46,1,110.0,240.0,False,140.0,False,0.0,3,0.0,normal,True,False,False,False,False,False,False,True,False,False,True,False
+387,46,1,170.0,280.0,False,120.0,False,0.0,3,0.0,,True,False,False,False,False,False,False,True,False,False,False,False
+388,47,0,140.0,257.0,False,135.0,False,1.0,2,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+389,47,0,130.0,199.13033707865168,False,145.0,False,2.0,1,0.0,,True,False,False,False,True,False,True,False,False,False,False,False
+390,47,1,110.0,249.0,False,150.0,False,0.0,3,0.0,,True,False,False,False,False,True,True,False,False,False,False,False
+391,47,1,160.0,263.0,False,174.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+392,47,1,140.0,276.0,True,125.0,True,0.0,3,0.0,,True,False,False,False,False,False,True,False,True,True,False,False
+393,48,0,132.13240418118468,308.0,False,137.5456647398844,,2.0,2,0.0,,True,False,False,True,False,False,False,True,False,False,False,False
+394,48,0,120.0,199.13033707865168,True,148.0,False,0.0,3,0.0,,True,False,False,True,False,False,False,True,True,False,False,False
+395,48,0,120.0,284.0,False,120.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+396,48,0,120.0,195.0,False,125.0,False,0.0,3,0.0,,True,False,False,False,True,False,True,False,False,False,False,False
+397,48,0,108.0,163.0,False,175.0,False,2.0,2,0.0,,True,False,False,False,False,False,True,False,False,False,False,False
+398,48,0,120.0,254.0,False,110.0,False,0.0,3,0.0,,True,False,False,False,False,False,False,True,False,False,False,False
+399,48,0,150.0,227.0,False,130.0,True,1.0,1,0.0,,True,False,False,False,False,False,True,False,False,True,False,False
+400,48,1,100.0,199.13033707865168,False,100.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+401,48,1,130.0,245.0,False,160.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+402,48,1,140.0,238.0,False,118.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+403,48,1,110.0,211.0,False,138.0,False,0.0,3,0.0,fixed defect,True,False,False,False,True,False,True,False,False,False,False,False
+404,49,0,110.0,199.13033707865168,False,160.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+405,49,0,110.0,199.13033707865168,False,160.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+406,49,0,124.0,201.0,False,164.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+407,49,0,130.0,207.0,False,135.0,False,0.0,3,0.0,,True,False,False,False,True,False,False,True,False,False,False,False
+408,49,1,100.0,253.0,False,174.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+409,49,1,140.0,187.0,False,172.0,False,0.0,3,0.0,,True,False,False,False,True,False,True,False,False,False,False,False
+410,49,1,120.0,297.0,,132.0,False,1.0,1,0.0,,True,False,False,False,False,False,True,False,False,False,False,False
+411,49,1,140.0,199.13033707865168,False,130.0,False,0.0,3,0.0,,True,False,False,False,False,False,True,False,False,False,False,False
+412,50,0,110.0,202.0,False,145.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+413,50,0,120.0,328.0,False,110.0,True,1.0,1,0.0,,True,False,False,False,False,False,True,False,False,True,False,False
+414,50,1,120.0,168.0,False,160.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+415,50,1,140.0,216.0,False,170.0,False,0.0,3,0.0,normal,True,False,False,True,False,False,True,False,False,False,True,False
+416,50,1,170.0,209.0,False,116.0,False,0.0,3,0.0,,True,False,False,True,False,False,False,True,False,False,False,False
+417,50,1,140.0,129.0,False,135.0,False,0.0,3,0.0,,True,False,False,False,False,False,True,False,False,False,False,False
+418,50,1,150.0,215.0,False,140.0,True,0.0,3,0.0,,True,False,False,False,False,False,True,False,False,True,False,False
+419,51,0,160.0,194.0,False,170.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+420,51,0,110.0,190.0,False,120.0,False,0.0,3,0.0,,True,False,False,False,True,False,True,False,False,False,False,False
+421,51,0,130.0,220.0,False,160.0,True,2.0,2,0.0,,True,False,False,False,True,False,True,False,False,True,False,False
+422,51,0,150.0,200.0,False,120.0,False,0.5,2,0.0,,True,False,False,False,True,False,True,False,False,False,False,False
+423,51,1,125.0,188.0,False,145.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+424,51,1,130.0,224.0,False,150.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+425,51,1,130.0,179.0,False,100.0,False,0.0,3,0.0,reversable defect,True,False,False,False,False,False,True,False,False,False,False,True
+426,52,0,120.0,210.0,False,148.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+427,52,0,140.0,199.13033707865168,False,140.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+428,52,0,125.0,272.0,False,139.0,False,0.0,3,0.0,,True,False,False,False,True,False,True,False,False,False,False,False
+429,52,0,130.0,180.0,False,140.0,True,1.5,1,0.0,,True,False,False,False,False,False,True,False,False,True,False,False
+430,52,1,120.0,284.0,False,118.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+431,52,1,140.0,100.0,False,138.0,True,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,True,False,False
+432,52,1,160.0,196.0,False,165.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+433,52,1,140.0,259.0,False,170.0,False,0.0,3,0.0,,True,False,False,False,True,False,False,True,False,False,False,False
+434,53,0,113.0,400.875,,127.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+435,53,0,140.0,216.0,False,142.0,True,2.0,1,0.0,,True,False,False,True,False,False,True,False,False,True,False,False
+436,53,0,120.0,274.0,False,130.0,False,0.0,3,0.0,,True,False,False,False,True,False,True,False,False,False,False,False
+437,53,1,120.0,199.13033707865168,False,132.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+438,53,1,140.0,320.0,False,162.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+439,53,1,120.0,195.0,False,140.0,False,0.0,3,0.0,,True,False,False,False,True,False,True,False,False,False,False,False
+440,53,1,124.0,260.0,False,112.0,True,3.0,1,0.0,,True,False,False,False,False,False,False,True,False,True,False,False
+441,53,1,130.0,182.0,False,148.0,False,0.0,3,0.0,,True,False,False,False,False,False,True,False,False,False,False,False
+442,53,1,140.0,243.0,False,155.0,False,0.0,3,0.0,,True,False,False,False,False,False,True,False,False,False,False,False
+443,54,0,120.0,221.0,False,138.0,False,1.0,2,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+444,54,0,120.0,230.0,True,140.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,True,False,False,False
+445,54,0,120.0,273.0,False,150.0,False,1.5,1,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+446,54,0,130.0,253.0,False,155.0,False,0.0,3,0.0,,True,False,False,True,False,False,False,True,False,False,False,False
+447,54,0,140.0,309.0,,140.0,False,0.0,3,0.0,,True,False,False,True,False,False,False,True,False,False,False,False
+448,54,0,150.0,230.0,False,130.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+449,54,0,160.0,312.0,False,130.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+450,54,1,120.0,171.0,False,137.0,False,2.0,2,0.0,,True,False,False,False,False,True,True,False,False,False,False,False
+451,54,1,110.0,208.0,False,142.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+452,54,1,120.0,238.0,False,154.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+453,54,1,120.0,246.0,False,110.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+454,54,1,160.0,195.0,False,130.0,False,1.0,2,0.0,,True,False,False,True,False,False,False,True,False,False,False,False
+455,54,1,160.0,305.0,False,175.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+456,54,1,120.0,217.0,False,137.0,False,0.0,3,0.0,,True,False,False,False,True,False,True,False,False,False,False,False
+457,54,1,150.0,199.13033707865168,False,122.0,False,0.0,3,0.0,,True,False,False,False,True,False,True,False,False,False,False,False
+458,54,1,150.0,365.0,False,134.0,False,1.0,2,0.0,,True,False,False,False,False,False,False,True,False,False,False,False
+459,55,0,110.0,344.0,False,160.0,False,0.0,3,0.0,,True,False,False,True,False,False,False,True,False,False,False,False
+460,55,0,122.0,320.0,False,155.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+461,55,0,130.0,394.0,False,150.0,False,0.0,3,0.0,,True,False,False,True,False,False,False,False,False,False,False,False
+462,55,1,120.0,256.0,True,137.0,False,0.0,3,0.0,reversable defect,True,False,False,True,False,False,True,False,True,False,False,True
+463,55,1,140.0,196.0,False,150.0,False,0.0,3,0.0,reversable defect,True,False,False,True,False,False,True,False,False,False,False,True
+464,55,1,145.0,326.0,False,155.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+465,55,1,110.0,277.0,False,160.0,False,0.0,3,0.0,,True,False,False,False,True,False,True,False,False,False,False,False
+466,55,1,120.0,220.0,False,134.0,False,0.0,3,0.0,,True,False,False,False,True,False,False,False,False,False,False,False
+467,55,1,120.0,270.0,False,140.0,False,0.0,3,0.0,,True,False,False,False,False,False,True,False,False,False,False,False
+468,55,1,140.0,229.0,False,110.0,True,0.5,1,0.0,,True,False,False,False,False,False,True,False,False,True,False,False
+469,56,0,130.0,219.0,,164.0,False,0.0,3,0.0,reversable defect,True,False,False,False,True,False,False,True,False,False,False,True
+470,56,1,130.0,184.0,False,100.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+471,56,1,130.0,199.13033707865168,False,114.0,False,0.0,3,0.0,,True,False,False,False,True,False,True,False,False,False,False,False
+472,56,1,130.0,276.0,False,128.0,True,1.0,2,0.0,fixed defect,True,False,False,False,True,False,True,False,False,True,False,False
+473,56,1,120.0,85.0,False,140.0,False,0.0,3,0.0,,True,False,False,False,False,False,True,False,False,False,False,False
+474,57,0,130.0,308.0,False,98.0,False,1.0,1,0.0,,True,False,False,False,False,True,True,False,False,False,False,False
+475,57,0,170.0,347.0,False,126.0,True,0.8,1,0.0,,True,False,False,False,False,False,False,True,False,True,False,False
+476,57,1,140.0,260.0,True,140.0,False,0.0,3,0.0,fixed defect,True,False,False,True,False,False,True,False,True,False,False,False
+477,58,1,130.0,230.0,False,150.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+478,58,1,130.0,251.0,False,110.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+479,58,1,140.0,179.0,False,160.0,False,0.0,3,0.0,,True,False,False,False,True,False,True,False,False,False,False,False
+480,58,1,135.0,222.0,False,100.0,False,0.0,3,0.0,,True,False,False,False,False,False,True,False,False,False,False,False
+481,59,0,130.0,188.0,False,124.0,False,1.0,1,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+482,59,1,140.0,287.0,False,150.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+483,59,1,130.0,318.0,False,120.0,True,1.0,1,0.0,normal,True,False,False,False,True,False,True,False,False,True,True,False
+484,59,1,170.0,213.0,False,100.0,False,0.0,3,0.0,,True,False,False,False,True,False,True,False,False,False,False,False
+485,59,1,140.0,199.13033707865168,False,140.0,False,0.0,3,0.0,,True,False,False,False,False,False,True,False,False,False,False,False
+486,60,1,120.0,246.0,False,135.0,False,0.0,3,0.0,,True,False,False,False,True,False,False,False,False,False,False,False
+487,61,0,130.0,294.0,False,120.0,True,1.0,1,0.0,,True,False,False,False,False,False,False,True,False,True,False,False
+488,61,1,125.0,292.0,False,115.0,True,0.0,3,0.0,,True,False,False,False,False,False,False,True,False,True,False,False
+489,62,0,160.0,193.0,False,116.0,False,0.0,3,0.0,,True,False,False,False,False,True,True,False,False,False,False,False
+490,62,1,140.0,271.0,False,152.0,False,1.0,2,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+491,31,1,120.0,270.0,False,153.0,True,1.5,1,0.0,,True,False,False,False,False,False,True,False,False,True,False,False
+492,33,0,100.0,246.0,False,150.0,True,1.0,1,0.0,,True,False,False,False,False,False,True,False,False,True,False,False
+493,34,1,140.0,156.0,False,180.0,False,0.0,3,0.0,,True,False,False,False,False,True,True,False,False,False,False,False
+494,35,1,110.0,257.0,False,140.0,False,0.0,3,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+495,36,1,120.0,267.0,False,160.0,False,3.0,1,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+496,37,1,140.0,207.0,False,130.0,True,1.5,1,0.0,,True,False,False,False,False,False,True,False,False,True,False,False
+497,38,1,110.0,196.0,False,166.0,False,0.0,3,0.0,,True,False,False,False,False,False,True,False,False,False,False,False
+498,38,1,120.0,282.0,False,170.0,False,0.0,3,0.0,,True,False,False,False,False,False,True,False,False,False,False,False
+499,38,1,92.0,117.0,False,134.0,True,2.5,1,0.0,,True,False,False,False,False,False,True,False,False,True,False,False
+500,40,1,120.0,400.875,,152.0,True,1.0,1,0.0,fixed defect,True,False,False,False,False,False,True,False,False,True,False,False
+501,41,1,110.0,289.0,False,170.0,False,0.0,3,0.0,fixed defect,True,False,False,False,False,False,True,False,False,False,False,False
+502,41,1,120.0,237.0,,138.0,True,1.0,1,0.0,,True,False,False,False,False,False,True,False,False,True,False,False
+503,43,1,150.0,247.0,False,130.0,True,2.0,1,0.0,,True,False,False,False,False,False,True,False,False,True,False,False
+504,46,1,110.0,202.0,False,150.0,True,0.0,3,0.0,,True,False,False,False,False,False,True,False,False,True,False,False
+505,46,1,118.0,186.0,False,124.0,False,0.0,3,0.0,reversable defect,True,False,False,False,False,False,True,False,False,False,False,True
+506,46,1,120.0,277.0,False,125.0,True,1.0,1,0.0,,True,False,False,False,False,False,True,False,False,True,False,False
+507,47,1,140.0,193.0,False,145.0,True,1.0,1,0.0,,True,False,False,False,True,False,True,False,False,True,False,False
+508,47,1,150.0,226.0,False,98.0,True,1.5,1,0.0,reversable defect,True,False,False,False,False,False,True,False,False,True,False,True
+509,48,1,106.0,263.0,True,110.0,False,0.0,3,0.0,,True,False,False,False,False,False,True,False,True,False,False,False
+510,48,1,120.0,260.0,False,115.0,False,2.0,1,0.0,,True,False,False,False,False,False,True,False,False,False,False,False
+511,48,1,160.0,268.0,False,103.0,True,1.0,1,0.0,,True,False,False,False,False,False,True,False,False,True,False,False
+512,49,0,160.0,180.0,False,156.0,False,1.0,1,0.0,,True,False,False,False,True,False,True,False,False,False,False,False
+513,49,1,115.0,265.0,False,175.0,False,0.0,3,0.0,,True,False,False,False,True,False,True,False,False,False,False,False
+514,49,1,130.0,206.0,False,170.0,False,0.0,3,0.0,,True,False,False,False,False,False,True,False,False,False,False,False
+515,50,0,140.0,288.0,False,140.0,True,0.0,3,0.0,reversable defect,True,False,False,False,True,False,True,False,False,True,False,True
+516,50,1,145.0,264.0,False,150.0,False,0.0,3,0.0,,True,False,False,False,False,False,True,False,False,False,False,False
+517,51,0,160.0,303.0,False,150.0,True,1.0,1,0.0,,True,False,False,False,False,False,True,False,False,True,False,False
+518,52,1,130.0,225.0,False,120.0,True,2.0,1,0.0,,True,False,False,False,False,False,True,False,False,True,False,False
+519,54,1,125.0,216.0,False,140.0,False,0.0,3,0.0,,True,False,False,False,False,False,True,False,False,False,False,False
+520,54,1,125.0,224.0,False,122.0,False,2.0,1,0.0,,True,False,False,False,False,False,True,False,False,False,False,False
+521,55,1,140.0,201.0,False,130.0,True,3.0,1,0.0,,True,False,False,False,False,False,True,False,False,True,False,False
+522,57,1,140.0,265.0,False,145.0,True,1.0,1,0.0,,True,False,False,True,False,False,False,True,False,True,False,False
+523,58,1,130.0,213.0,False,140.0,False,0.0,3,0.0,fixed defect,True,False,False,False,True,False,False,True,False,False,False,False
+524,59,0,130.0,338.0,True,130.0,True,1.5,1,0.0,,True,False,False,False,False,False,False,True,True,True,False,False
+525,60,1,100.0,248.0,False,125.0,False,1.0,1,0.0,,True,False,False,False,False,False,True,False,False,False,False,False
+526,63,1,150.0,223.0,False,115.0,False,0.0,3,0.0,,True,False,False,False,False,False,True,False,False,False,False,False
+527,65,1,140.0,306.0,True,87.0,True,1.5,1,0.0,,True,False,False,False,False,False,True,False,True,True,False,False
+528,32,1,118.0,400.875,False,130.0,False,0.0,3,0.0,,True,False,False,False,False,False,True,False,False,False,False,False
+529,38,1,110.0,199.13033707865168,False,150.0,True,1.0,1,0.0,,True,False,False,False,False,False,True,False,False,True,False,False
+530,39,1,110.0,280.0,False,150.0,False,0.0,3,0.0,fixed defect,True,False,False,False,False,False,True,False,False,False,False,False
+531,40,0,150.0,392.0,False,130.0,False,2.0,1,0.0,fixed defect,True,False,False,False,False,False,True,False,False,False,False,False
+532,43,1,120.0,291.0,False,155.0,False,0.0,3,0.0,,True,False,False,False,False,True,False,True,False,False,False,False
+533,45,1,130.0,219.0,False,130.0,True,1.0,1,0.0,,True,False,False,False,False,False,False,True,False,True,False,False
+534,46,1,120.0,231.0,False,115.0,True,0.0,3,0.0,,True,False,False,False,False,False,True,False,False,True,False,False
+535,46,1,130.0,222.0,False,112.0,False,0.0,3,0.0,,True,False,False,False,False,False,True,False,False,False,False,False
+536,48,1,122.0,275.0,True,150.0,True,2.0,0,0.0,,True,False,False,False,False,False,False,True,True,True,False,False
+537,48,1,160.0,193.0,False,102.0,True,3.0,1,0.0,,True,False,False,False,False,False,True,False,False,True,False,False
+538,48,1,160.0,329.0,False,92.0,True,1.5,1,0.0,,True,False,False,False,False,False,True,False,False,True,False,False
+539,48,1,160.0,355.0,False,99.0,True,2.0,1,0.0,,True,False,False,False,False,False,True,False,False,True,False,False
+540,50,1,130.0,233.0,False,121.0,True,2.0,1,0.0,reversable defect,True,False,False,False,False,False,True,False,False,True,False,True
+541,52,1,120.0,182.0,False,150.0,False,0.0,3,0.0,,True,False,False,False,False,False,True,False,False,False,False,False
+542,52,1,170.0,199.13033707865168,False,126.0,True,1.5,1,0.0,,True,False,False,False,False,False,True,False,False,True,False,False
+543,53,1,120.0,246.0,False,116.0,True,0.0,3,0.0,,True,False,False,False,False,False,True,False,False,True,False,False
+544,54,1,120.0,237.0,False,150.0,True,1.5,3,0.0,reversable defect,True,False,False,False,True,False,True,False,False,True,False,True
+545,54,1,130.0,242.0,False,91.0,True,1.0,1,0.0,,True,False,False,False,False,False,True,False,False,True,False,False
+546,54,1,130.0,400.875,True,125.0,True,1.0,1,0.0,,True,False,False,False,False,False,True,False,True,True,False,False
+547,54,1,140.0,199.13033707865168,False,118.0,True,0.0,3,0.0,,True,False,False,False,False,False,True,False,False,True,False,False
+548,54,1,170.0,198.0,False,142.0,True,2.0,1,0.0,,True,False,False,False,False,False,True,False,False,True,False,False
+549,55,1,140.0,268.0,False,128.0,True,1.5,1,0.0,,True,False,False,False,False,False,True,False,False,True,False,False
+550,56,1,150.0,213.0,True,125.0,True,1.0,1,0.0,,True,False,False,False,False,False,True,False,True,True,False,False
+551,57,1,150.0,255.0,False,92.0,True,3.0,1,0.0,,True,False,False,False,False,False,True,False,False,True,False,False
+552,58,1,160.0,211.0,True,92.0,False,0.0,3,0.0,,True,False,False,False,True,False,False,True,True,False,False,False
+553,58,1,130.0,263.0,False,140.0,True,2.0,1,0.0,,True,False,False,False,False,False,True,False,False,True,False,False
+554,41,1,130.0,172.0,False,130.0,False,2.0,1,0.0,,True,False,False,False,False,False,False,True,False,False,False,False
+555,43,1,120.0,175.0,False,120.0,True,1.0,1,0.0,reversable defect,True,False,False,False,False,False,True,False,False,True,False,True
+556,44,1,150.0,288.0,False,150.0,True,3.0,1,0.0,,True,False,False,True,False,False,True,False,False,True,False,False
+557,44,1,130.0,290.0,False,100.0,True,2.0,1,0.0,,True,False,False,False,False,False,True,False,False,True,False,False
+558,46,1,140.0,272.0,True,175.0,False,2.0,1,0.0,,True,False,False,False,False,True,True,False,True,False,False,False
+559,47,0,135.0,248.0,True,170.0,False,0.0,3,0.0,,True,False,False,False,True,False,True,False,True,False,False,False
+560,48,0,138.0,214.0,False,108.0,True,1.5,1,0.0,,True,False,False,False,False,False,True,False,False,True,False,False
+561,49,1,130.0,341.0,False,120.0,True,1.0,1,0.0,,True,False,False,False,False,False,True,False,False,True,False,False
+562,49,1,140.0,234.0,False,140.0,True,1.0,1,0.0,,True,False,False,False,False,False,True,False,False,True,False,False
+563,51,1,135.0,160.0,False,150.0,False,2.0,1,0.0,,True,False,False,False,True,False,True,False,False,False,False,False
+564,52,1,112.0,342.0,False,96.0,True,1.0,1,0.0,,True,False,False,False,False,False,False,True,False,True,False,False
+565,52,1,130.0,298.0,False,110.0,True,1.0,1,0.0,,True,False,False,False,False,False,True,False,False,True,False,False
+566,52,1,140.0,400.875,False,124.0,True,2.0,1,0.0,,True,False,False,False,False,False,True,False,False,True,False,False
+567,52,1,160.0,246.0,False,82.0,True,3.75,1,0.0,,True,False,False,False,False,False,False,True,False,True,False,False
+568,53,1,145.0,400.875,False,130.0,False,0.0,3,0.0,,True,False,False,False,True,False,True,False,False,False,False,False
+569,53,1,170.0,285.0,False,120.0,True,1.5,1,0.0,,True,False,False,False,False,False,False,True,False,True,False,False
+570,54,1,140.0,216.0,False,105.0,False,1.5,1,0.0,,True,False,False,False,False,False,True,False,False,False,False,False
+571,55,1,140.0,295.0,False,136.0,False,0.0,3,0.0,,True,False,False,False,False,True,False,False,False,False,False,False
+572,55,1,160.0,292.0,True,143.0,True,2.0,1,0.0,,True,False,False,True,False,False,True,False,True,True,False,False
+573,55,1,145.0,248.0,False,96.0,True,2.0,1,0.0,,True,False,False,False,False,False,True,False,False,True,False,False
+574,56,0,120.0,279.0,False,150.0,False,1.0,1,0.0,,True,False,False,True,False,False,True,False,False,False,False,False
+575,56,1,150.0,230.0,False,124.0,True,1.5,1,0.0,,True,False,False,False,False,False,False,True,False,True,False,False
+576,56,1,170.0,388.0,False,122.0,True,2.0,1,0.0,,True,False,False,False,False,False,False,True,False,True,False,False
+577,58,1,136.0,164.0,False,99.0,True,2.0,1,0.0,,True,False,False,True,False,False,False,True,False,True,False,False
+578,59,1,130.0,199.13033707865168,False,125.0,False,0.0,3,0.0,,True,False,False,False,False,False,True,False,False,False,False,False
+579,59,1,140.0,264.0,True,119.0,True,0.0,3,0.0,,True,False,False,False,False,False,False,False,True,True,False,False
+580,65,1,170.0,263.0,True,112.0,True,2.0,1,0.0,,True,False,False,False,False,False,True,False,True,True,False,False
+581,66,1,140.0,199.13033707865168,False,94.0,True,1.0,1,0.0,,True,False,False,False,False,False,True,False,False,True,False,False
+582,41,1,120.0,336.0,False,118.0,True,3.0,1,0.0,,True,False,False,False,False,False,True,False,False,True,False,False
+583,43,1,140.0,288.0,False,135.0,True,2.0,1,0.0,,True,False,False,False,False,False,True,False,False,True,False,False
+584,44,1,135.0,400.875,False,135.0,False,0.0,3,0.0,,True,False,False,False,False,False,True,False,False,False,False,False
+585,47,0,120.0,205.0,False,98.0,True,2.0,1,0.0,fixed defect,True,False,False,False,False,False,True,False,False,True,False,False
+586,47,1,160.0,291.0,False,158.0,True,3.0,1,0.0,,True,False,False,False,False,False,False,True,False,True,False,False
+587,49,1,128.0,212.0,False,96.0,True,0.0,3,0.0,,True,False,False,False,False,False,True,False,False,True,False,False
+588,49,1,150.0,222.0,False,122.0,False,2.0,1,0.0,,True,False,False,False,False,False,True,False,False,False,False,False
+589,50,1,140.0,231.0,False,140.0,True,3.75,1,0.0,,True,False,False,False,False,False,False,True,False,True,False,False
+590,50,1,140.0,341.0,False,125.0,True,2.5,1,0.0,,True,False,False,False,False,False,False,True,False,True,False,False
+591,52,1,140.0,266.0,False,134.0,True,2.0,1,0.0,,True,False,False,False,False,False,True,False,False,True,False,False
+592,52,1,160.0,331.0,False,94.0,True,2.5,3,0.0,,True,False,False,False,False,False,True,False,False,True,False,False
+593,54,0,130.0,294.0,False,100.0,True,0.0,1,0.0,,True,False,False,False,True,False,False,True,False,True,False,False
+594,56,1,155.0,342.0,True,150.0,True,3.0,1,0.0,,True,False,False,False,False,False,True,False,True,True,False,False
+595,58,0,170.0,393.0,False,110.0,True,1.0,1,0.0,reversable defect,True,False,False,True,False,False,True,False,False,True,False,True
+596,65,1,130.0,275.0,False,115.0,True,1.0,1,0.0,,True,False,False,False,False,False,False,True,False,True,False,False
+597,32,1,95.0,43.875,,127.0,False,0.7,2,0.0,,False,True,False,False,False,True,True,False,False,False,False,False
+598,34,1,115.0,43.875,,154.0,False,0.2,2,0.0,,False,True,False,False,False,False,False,False,False,False,False,False
+599,35,1,132.13240418118468,43.875,,130.0,True,0.8787878787878788,3,0.0,reversable defect,False,True,False,False,False,False,True,False,False,True,False,True
+600,36,1,110.0,43.875,,125.0,True,1.0,1,0.0,fixed defect,False,True,False,False,False,False,True,False,False,True,False,False
+601,38,0,105.0,43.875,,166.0,False,2.8,2,0.0,,False,True,False,False,False,False,True,False,False,False,False,False
+602,38,0,110.0,43.875,False,156.0,False,0.0,1,0.0,normal,False,True,False,False,False,False,True,False,False,False,True,False
+603,38,1,100.0,43.875,,179.0,False,-1.1,2,0.0,,False,True,False,False,True,False,True,False,False,False,False,False
+604,38,1,115.0,43.875,False,128.0,True,0.0,1,0.0,reversable defect,False,True,False,False,True,False,True,False,False,True,False,True
+605,38,1,135.0,43.875,,150.0,False,0.0,3,0.0,normal,False,True,False,False,False,False,True,False,False,False,True,False
+606,38,1,150.0,43.875,,120.0,True,0.8787878787878788,3,0.0,normal,False,True,False,False,False,False,True,False,False,True,True,False
+607,40,1,95.0,43.875,,144.0,False,0.0,2,0.0,,False,True,False,False,False,False,False,True,False,False,False,False
+608,41,1,125.0,43.875,,176.0,False,1.6,2,0.0,,False,True,False,False,False,False,True,False,False,False,False,False
+609,42,1,105.0,43.875,,128.0,True,-1.5,0,0.0,,False,True,False,False,False,False,True,False,False,True,False,False
+610,42,1,145.0,43.875,False,99.0,True,0.0,1,0.0,,False,True,False,False,False,False,True,False,False,True,False,False
+611,43,1,100.0,43.875,,122.0,False,1.5,0,0.0,,False,True,False,False,False,False,True,False,False,False,False,False
+612,43,1,115.0,43.875,False,145.0,True,2.0,1,0.0,reversable defect,False,True,False,False,False,False,True,False,False,True,False,True
+613,43,1,140.0,43.875,False,140.0,True,0.5,2,0.0,reversable defect,False,True,False,False,False,False,False,True,False,True,False,True
+614,45,1,110.0,43.875,,138.0,False,-0.1,2,0.0,,False,True,False,False,True,False,True,False,False,False,False,False
+615,46,1,100.0,43.875,,133.0,False,-2.25,1,0.0,,False,True,False,False,False,False,False,True,False,False,False,False
+616,46,1,115.0,43.875,False,113.0,True,1.5,1,0.0,reversable defect,False,True,False,False,False,False,True,False,False,True,False,True
+617,47,1,110.0,43.875,,120.0,True,0.0,3,0.0,normal,False,True,False,False,True,False,True,False,False,True,True,False
+618,47,1,155.0,43.875,False,118.0,True,1.0,1,0.0,normal,False,True,False,False,True,False,True,False,False,True,True,False
+619,47,1,110.0,43.875,,149.0,False,2.1,2,0.0,,False,True,False,False,False,False,False,True,False,False,False,False
+620,47,1,160.0,43.875,False,124.0,True,0.0,1,0.0,reversable defect,False,True,False,False,False,False,True,False,False,True,False,True
+621,48,1,115.0,43.875,,128.0,False,0.0,1,0.0,fixed defect,False,True,False,False,False,False,True,False,False,False,False,False
+622,50,0,160.0,43.875,,110.0,False,0.0,3,0.0,normal,False,True,False,False,False,False,True,False,False,False,True,False
+623,50,1,115.0,43.875,False,120.0,True,0.5,1,0.0,fixed defect,False,True,False,False,False,False,True,False,False,True,False,False
+624,50,1,120.0,43.875,False,156.0,True,0.0,2,0.0,fixed defect,False,True,False,False,False,False,False,True,False,True,False,False
+625,50,1,145.0,43.875,,139.0,True,0.7,1,0.0,,False,True,False,False,False,False,True,False,False,True,False,False
+626,51,0,120.0,43.875,,127.0,True,1.5,2,0.0,,False,True,False,False,False,False,True,False,False,True,False,False
+627,51,1,110.0,43.875,,92.0,False,0.0,1,0.0,,False,True,False,False,False,False,True,False,False,False,False,False
+628,51,1,120.0,43.875,True,104.0,False,0.0,1,0.0,normal,False,True,False,False,False,False,True,False,True,False,True,False
+629,51,1,130.0,43.875,,170.0,False,-0.7,2,0.0,,False,True,False,False,False,False,True,False,False,False,False,False
+630,51,1,130.0,43.875,,163.0,False,0.0,3,0.0,reversable defect,False,True,False,False,False,False,False,True,False,False,False,True
+631,51,1,140.0,43.875,False,66.0,False,0.0,1,0.0,normal,False,True,False,False,False,False,True,False,False,False,True,False
+632,51,1,95.0,43.875,,126.0,False,2.2,1,0.0,,False,True,False,False,False,False,True,False,False,False,False,False
+633,52,1,130.0,43.875,,120.0,False,0.0,1,0.0,reversable defect,False,True,False,False,False,False,True,False,False,False,False,True
+634,52,1,135.0,43.875,,128.0,True,2.0,1,0.0,reversable defect,False,True,False,False,False,False,True,False,False,True,False,True
+635,52,1,165.0,43.875,,122.0,True,1.0,2,0.0,reversable defect,False,True,False,False,False,False,True,False,False,True,False,True
+636,52,1,95.0,43.875,,82.0,True,0.8787878787878788,3,0.0,,False,True,False,False,False,False,True,False,False,True,False,False
+637,53,1,120.0,43.875,False,95.0,False,0.0,1,0.0,normal,False,True,False,True,False,False,True,False,False,False,True,False
+638,53,1,130.0,43.875,,120.0,False,0.7,0,0.0,,False,True,False,True,False,False,False,True,False,False,False,False
+639,53,1,105.0,43.875,False,115.0,False,0.0,1,0.0,reversable defect,False,True,False,False,True,False,True,False,False,False,False,True
+640,53,1,160.0,43.875,,122.0,True,0.0,3,0.0,reversable defect,False,True,False,False,True,False,False,False,False,True,False,True
+641,53,1,120.0,43.875,,120.0,False,0.0,1,0.0,reversable defect,False,True,False,False,False,False,True,False,False,False,False,True
+642,53,1,125.0,43.875,,120.0,False,1.5,2,0.0,,False,True,False,False,False,False,True,False,False,False,False,False
+643,53,1,130.0,43.875,False,135.0,True,1.0,1,0.0,reversable defect,False,True,False,False,False,False,False,False,False,True,False,True
+644,53,1,90.0,43.875,,141.0,True,2.0,0,0.0,,False,True,False,False,False,False,True,False,False,True,False,False
+645,54,1,120.0,43.875,False,155.0,False,0.0,1,0.0,reversable defect,False,True,False,False,False,False,True,False,False,False,False,True
+646,54,1,130.0,43.875,,110.0,True,3.0,1,0.0,reversable defect,False,True,False,False,False,False,True,False,False,True,False,True
+647,54,1,170.0,43.875,,150.0,False,1.5,1,0.0,reversable defect,False,True,False,False,False,False,True,False,False,False,False,True
+648,55,1,140.0,43.875,,150.0,False,0.2,2,0.0,,False,True,False,True,False,False,False,True,False,False,False,False
+649,55,1,115.0,43.875,,155.0,False,0.1,1,0.0,,False,True,False,False,False,False,True,False,False,False,False,False
+650,55,1,120.0,43.875,False,92.0,False,0.3,2,0.0,reversable defect,False,True,False,False,False,False,False,True,False,False,False,True
+651,55,1,140.0,43.875,False,83.0,False,0.0,1,0.0,reversable defect,False,True,False,False,False,False,True,False,False,False,False,True
+652,56,1,120.0,43.875,False,97.0,False,0.0,1,0.0,reversable defect,False,True,False,False,True,False,True,False,False,False,False,True
+653,56,1,125.0,43.875,,98.0,False,-2.0,1,0.0,reversable defect,False,True,False,False,True,False,True,False,False,False,False,True
+654,56,1,155.0,43.875,False,99.0,False,0.0,1,0.0,normal,False,True,False,False,True,False,False,True,False,False,True,False
+655,56,1,115.0,43.875,,82.0,False,-1.0,2,0.0,,False,True,False,False,False,False,False,True,False,False,False,False
+656,56,1,120.0,43.875,False,100.0,True,-1.0,0,0.0,reversable defect,False,True,False,False,False,False,False,True,False,True,False,True
+657,56,1,120.0,43.875,False,148.0,False,0.0,1,0.0,,False,True,False,False,False,False,False,True,False,False,False,False
+658,56,1,125.0,43.875,True,103.0,True,1.0,1,0.0,reversable defect,False,True,False,False,False,False,True,False,True,True,False,True
+659,56,1,140.0,43.875,,121.0,True,1.8,2,0.0,,False,True,False,False,False,False,True,False,False,True,False,False
+660,57,1,105.0,43.875,,148.0,False,0.3,1,0.0,,False,True,False,False,True,False,True,False,False,False,False,False
+661,57,1,110.0,43.875,,131.0,True,1.4,2,0.0,,False,True,False,False,False,False,False,True,False,True,False,False
+662,57,1,140.0,43.875,False,120.0,True,2.0,1,0.0,fixed defect,False,True,False,False,False,False,True,False,False,True,False,False
+663,57,1,140.0,43.875,,100.0,True,0.0,3,0.0,fixed defect,False,True,False,False,False,False,True,False,False,True,False,False
+664,57,1,160.0,43.875,,98.0,True,2.0,1,0.0,reversable defect,False,True,False,False,False,False,True,False,False,True,False,True
+665,57,1,95.0,43.875,,182.0,False,0.7,0,0.0,,False,True,False,False,False,False,True,False,False,False,False,False
+666,58,1,115.0,43.875,,138.0,False,0.5,2,0.0,,False,True,False,False,False,False,True,False,False,False,False,False
+667,58,1,130.0,43.875,False,100.0,True,1.0,1,0.0,fixed defect,False,True,False,False,False,False,False,True,False,True,False,False
+668,58,1,170.0,43.875,,105.0,True,0.0,3,0.0,normal,False,True,False,False,False,False,False,True,False,True,True,False
+669,59,1,125.0,43.875,,175.0,False,2.6,1,0.0,,False,True,False,False,True,False,True,False,False,False,False,False
+670,59,1,110.0,43.875,,94.0,False,0.0,3,0.0,fixed defect,False,True,False,False,False,False,True,False,False,False,False,False
+671,59,1,120.0,43.875,False,115.0,False,0.0,1,0.0,normal,False,True,False,False,False,False,True,False,False,False,True,False
+672,59,1,125.0,43.875,,119.0,True,0.9,2,0.0,,False,True,False,False,False,False,True,False,False,True,False,False
+673,59,1,135.0,43.875,False,115.0,True,1.0,1,0.0,reversable defect,False,True,False,False,False,False,True,False,False,True,False,True
+674,60,1,115.0,43.875,,143.0,False,2.4,2,0.0,,False,True,False,False,True,False,True,False,False,False,False,False
+675,60,1,125.0,43.875,,110.0,False,0.1,2,0.0,,False,True,False,False,False,False,True,False,False,False,False,False
+676,60,1,130.0,43.875,,130.0,True,1.1,0,0.0,,False,True,False,False,False,False,False,True,False,True,False,False
+677,60,1,135.0,43.875,False,66.0,True,0.5,2,0.0,reversable defect,False,True,False,False,False,False,True,False,False,True,False,True
+678,60,1,160.0,43.875,False,99.0,True,0.5,1,0.0,reversable defect,False,True,False,False,False,False,False,True,False,True,False,True
+679,60,1,160.0,43.875,,149.0,False,0.4,1,0.0,,False,True,False,False,False,False,True,False,False,False,False,False
+680,61,1,170.0,43.875,,70.0,False,0.0,3,0.0,normal,False,True,False,False,True,False,False,True,False,False,True,False
+681,61,1,105.0,43.875,,110.0,True,1.5,2,0.0,,False,True,False,False,False,False,True,False,False,True,False,False
+682,61,1,110.0,43.875,,113.0,False,1.4,1,0.0,,False,True,False,False,False,False,True,False,False,False,False,False
+683,61,1,125.0,43.875,False,105.0,True,0.0,0,0.0,reversable defect,False,True,False,False,False,False,True,False,False,True,False,True
+684,61,1,130.0,43.875,False,115.0,False,0.0,1,0.0,reversable defect,False,True,False,False,False,False,False,False,False,False,False,True
+685,61,1,130.0,43.875,,77.0,False,2.5,1,0.0,,False,True,False,False,False,False,True,False,False,False,False,False
+686,61,1,150.0,43.875,False,105.0,True,0.0,1,0.0,reversable defect,False,True,False,False,False,False,True,False,False,True,False,True
+687,61,1,150.0,43.875,False,117.0,True,2.0,1,0.0,reversable defect,False,True,False,False,False,False,True,False,False,True,False,True
+688,61,1,160.0,43.875,True,145.0,False,1.0,1,0.0,reversable defect,False,True,False,False,False,False,False,True,True,False,False,True
+689,62,0,140.0,43.875,,143.0,False,0.0,3,0.0,normal,False,True,False,False,False,True,True,False,False,False,True,False
+690,62,0,120.0,43.875,,123.0,True,1.7,0,0.0,,False,True,False,False,False,False,False,True,False,True,False,False
+691,62,1,120.0,43.875,,134.0,False,-0.8,1,0.0,,False,True,False,False,False,True,False,False,False,False,False,False
+692,62,1,160.0,43.875,False,72.0,True,0.0,1,0.0,normal,False,True,False,False,True,False,True,False,False,True,True,False
+693,62,1,115.0,43.875,,128.0,True,2.5,0,0.0,,False,True,False,False,False,False,True,False,False,True,False,False
+694,62,1,115.0,43.875,,72.0,True,-0.5,1,0.0,normal,False,True,False,False,False,False,True,False,False,True,True,False
+695,62,1,150.0,43.875,,78.0,False,2.0,1,0.0,reversable defect,False,True,False,False,False,False,False,True,False,False,False,True
+696,63,1,100.0,43.875,,109.0,False,-0.9,1,0.0,,False,True,False,False,False,False,True,False,False,False,False,False
+697,63,1,140.0,43.875,,149.0,False,2.0,2,0.0,,False,True,False,False,False,False,False,False,False,False,False,False
+698,63,1,150.0,43.875,False,86.0,True,2.0,1,0.0,,False,True,False,False,False,False,True,False,False,True,False,False
+699,63,1,150.0,43.875,,154.0,False,3.7,2,0.0,,False,True,False,False,False,False,False,True,False,False,False,False
+700,63,1,170.0,43.875,False,98.0,True,0.0,2,0.0,reversable defect,False,True,False,False,False,False,True,False,False,True,False,True
+701,64,0,170.0,43.875,False,140.0,True,1.0,1,0.0,normal,False,True,False,False,False,False,True,False,False,True,True,False
+702,64,0,95.0,43.875,,145.0,False,1.1,0,0.0,,False,True,False,False,False,False,True,False,False,False,False,False
+703,64,1,110.0,43.875,,114.0,True,1.3,0,0.0,,False,True,False,False,False,False,True,False,False,True,False,False
+704,65,1,115.0,43.875,False,93.0,True,0.0,1,0.0,reversable defect,False,True,False,False,False,False,True,False,False,True,False,True
+705,65,1,145.0,43.875,,67.0,False,0.8787878787878788,3,0.0,fixed defect,False,True,False,False,False,False,False,True,False,False,False,False
+706,65,1,155.0,43.875,,154.0,False,1.0,2,0.0,,False,True,False,False,False,False,True,False,False,False,False,False
+707,65,1,160.0,43.875,True,122.0,False,0.8787878787878788,3,0.0,reversable defect,False,True,False,False,False,False,False,True,True,False,False,True
+708,66,0,155.0,43.875,,90.0,False,0.0,3,0.0,reversable defect,False,True,False,False,False,False,True,False,False,False,False,True
+709,66,1,150.0,43.875,False,108.0,True,2.0,1,0.0,reversable defect,False,True,False,False,False,False,True,False,False,True,False,True
+710,67,1,145.0,43.875,False,125.0,False,0.0,1,0.0,normal,False,True,False,False,False,True,False,False,False,False,True,False
+711,68,1,135.0,43.875,False,120.0,True,0.0,2,0.0,reversable defect,False,True,False,False,False,False,False,True,False,True,False,True
+712,68,1,145.0,43.875,,136.0,False,1.8,2,0.0,,False,True,False,False,False,False,True,False,False,False,False,False
+713,69,1,135.0,43.875,False,130.0,False,0.0,1,0.0,fixed defect,False,True,False,False,False,False,True,False,False,False,False,False
+714,69,1,132.13240418118468,43.875,False,137.5456647398844,,0.8787878787878788,3,0.0,reversable defect,False,True,False,False,False,False,False,True,False,False,False,True
+715,70,1,115.0,43.875,False,92.0,True,0.0,1,0.0,reversable defect,False,True,False,False,False,False,False,True,False,True,False,True
+716,70,1,140.0,43.875,True,157.0,True,2.0,1,0.0,reversable defect,False,True,False,False,False,False,True,False,True,True,False,True
+717,72,1,160.0,43.875,,114.0,False,1.6,1,0.0,,False,True,False,False,True,False,False,False,False,False,False,False
+718,73,0,160.0,43.875,False,121.0,False,0.0,2,0.0,normal,False,True,False,False,True,False,False,True,False,False,True,False
+719,74,1,145.0,43.875,,123.0,False,1.3,2,0.0,,False,True,False,True,False,False,False,True,False,False,False,False
+720,63,1,140.0,260.0,False,112.0,True,3.0,1,0.0,,False,False,True,False,False,False,False,True,False,True,False,False
+721,44,1,130.0,209.0,False,127.0,False,0.0,3,0.0,,False,False,True,False,False,False,False,True,False,False,False,False
+722,60,1,132.0,218.0,False,140.0,True,1.5,0,0.0,,False,False,True,False,False,False,False,True,False,True,False,False
+723,55,1,142.0,228.0,False,149.0,True,2.5,2,0.0,,False,False,True,False,False,False,False,True,False,True,False,False
+724,66,1,110.0,213.0,True,99.0,True,1.3,1,0.0,,False,False,True,False,True,False,False,False,True,True,False,False
+725,66,1,120.0,43.875,False,120.0,False,-0.5,2,0.0,,False,False,True,False,True,False,False,True,False,False,False,False
+726,65,1,150.0,236.0,True,105.0,True,0.0,3,0.0,,False,False,True,False,False,False,False,True,True,True,False,False
+727,60,1,170.0,43.875,False,140.0,True,1.5,1,0.0,,False,False,True,False,True,False,False,True,False,True,False,False
+728,60,1,120.0,43.875,,141.0,True,2.0,2,0.0,,False,False,True,False,True,False,True,False,False,True,False,False
+729,60,1,160.0,267.0,True,157.0,False,0.5,1,0.0,,False,False,True,True,False,False,False,True,True,False,False,False
+730,56,1,126.0,166.0,False,140.0,False,0.0,3,0.0,,False,False,True,True,False,False,False,True,False,False,False,False
+731,59,1,140.0,43.875,False,117.0,True,1.0,1,0.0,,False,False,True,False,False,False,False,True,False,True,False,False
+732,62,1,110.0,43.875,False,120.0,True,0.5,1,0.0,normal,False,False,True,False,False,False,True,False,False,True,True,False
+733,63,1,132.13240418118468,43.875,False,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,False,True,False,False,False,False,False,False,False
+734,57,1,128.0,43.875,True,148.0,True,1.0,1,0.0,,False,False,True,False,False,False,False,True,True,True,False,False
+735,62,1,120.0,220.0,False,86.0,False,0.0,3,0.0,,False,False,True,False,False,False,False,True,False,False,False,False
+736,63,1,170.0,177.0,False,84.0,True,2.5,0,0.0,,False,False,True,False,False,False,True,False,False,True,False,False
+737,46,1,110.0,236.0,False,125.0,True,2.0,1,0.0,,False,False,True,False,False,False,True,False,False,True,False,False
+738,63,1,126.0,43.875,False,120.0,False,1.5,0,0.0,,False,False,True,False,False,False,False,True,False,False,False,False
+739,60,1,152.0,43.875,False,118.0,True,0.0,3,0.0,reversable defect,False,False,True,False,False,False,False,True,False,True,False,True
+740,58,1,116.0,43.875,False,124.0,False,1.0,2,0.0,,False,False,True,False,False,False,True,False,False,False,False,False
+741,64,1,120.0,43.875,True,106.0,False,2.0,1,0.0,,False,False,True,False,False,False,False,True,True,False,False,False
+742,63,1,130.0,43.875,False,111.0,True,0.0,3,0.0,,False,False,True,False,True,False,False,True,False,True,False,False
+743,74,1,132.13240418118468,43.875,False,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,False,True,False,True,False,False,False,False,False
+744,52,1,128.0,43.875,False,180.0,False,3.0,2,0.0,,False,False,True,False,True,False,False,True,False,False,False,False
+745,69,1,130.0,43.875,True,129.0,False,1.0,1,0.0,fixed defect,False,False,True,False,False,False,False,True,True,False,False,False
+746,51,1,132.13240418118468,43.875,True,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,False,False,False,False,True,True,False,False,False
+747,60,1,130.0,186.0,True,140.0,True,0.5,1,0.0,,False,False,True,False,False,False,False,True,True,True,False,False
+748,56,1,120.0,100.0,False,120.0,True,1.5,1,0.0,reversable defect,False,False,True,False,False,False,True,False,False,True,False,True
+749,55,1,132.13240418118468,228.0,False,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,False,True,False,False,True,False,False,False,False
+750,54,1,132.13240418118468,43.875,False,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,False,False,False,False,True,False,False,False,False
+751,77,1,124.0,171.0,False,110.0,True,2.0,2,0.0,,False,False,True,False,False,False,False,True,False,True,False,False
+752,63,1,160.0,230.0,True,105.0,True,1.0,1,0.0,,False,False,True,False,False,False,True,False,True,True,False,False
+753,55,1,90.0,43.875,False,155.0,False,1.5,1,0.0,,False,False,True,False,True,False,True,False,False,False,False,False
+754,52,1,122.0,43.875,False,110.0,True,2.0,0,0.0,,False,False,True,False,True,False,True,False,False,True,False,False
+755,64,1,144.0,43.875,False,122.0,True,1.0,1,0.0,,False,False,True,False,False,False,False,True,False,True,False,False
+756,60,1,132.13240418118468,281.0,False,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,False,False,False,False,True,False,False,False,False
+757,60,1,120.0,43.875,False,133.0,True,2.0,2,0.0,reversable defect,False,False,True,False,False,False,True,False,False,True,False,True
+758,58,1,132.13240418118468,203.0,True,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,False,False,False,True,False,True,False,False,False
+759,59,1,154.0,43.875,False,131.0,True,1.5,3,0.0,,False,False,True,False,False,False,False,True,False,True,False,False
+760,61,1,120.0,43.875,False,80.0,True,0.0,1,0.0,,False,False,True,False,True,False,True,False,False,True,False,False
+761,40,1,125.0,43.875,True,165.0,False,0.0,3,0.0,reversable defect,False,False,True,False,False,False,True,False,True,False,False,True
+762,61,1,132.13240418118468,43.875,True,86.0,False,1.5,1,0.0,reversable defect,False,False,True,False,False,False,False,True,True,False,False,True
+763,41,1,104.0,43.875,False,111.0,False,0.0,3,0.0,,False,False,True,False,False,False,False,True,False,False,False,False
+764,57,1,132.13240418118468,277.0,True,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,False,False,False,False,True,True,False,False,False
+765,63,1,136.0,43.875,False,84.0,True,0.0,3,0.0,reversable defect,False,False,True,False,False,False,True,False,False,True,False,True
+766,59,1,122.0,233.0,False,117.0,True,1.3,0,0.0,,False,False,True,False,False,False,True,False,False,True,False,False
+767,51,1,128.0,43.875,False,107.0,False,0.0,3,0.0,,False,False,True,False,False,False,True,False,False,False,False,False
+768,59,1,132.13240418118468,43.875,False,128.0,True,2.0,0,0.0,,False,False,True,False,True,False,True,False,False,True,False,False
+769,42,1,134.0,240.0,,160.0,False,0.0,3,0.0,,False,False,True,False,True,False,True,False,False,False,False,False
+770,55,1,120.0,43.875,False,125.0,True,2.5,1,0.0,reversable defect,False,False,True,False,True,False,False,True,False,True,False,True
+771,63,0,132.13240418118468,43.875,False,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,True,False,False,True,False,False,False,False,False
+772,62,1,152.0,153.0,False,97.0,True,1.6,2,0.0,reversable defect,False,False,True,False,False,False,False,True,False,True,False,True
+773,56,1,124.0,224.0,True,161.0,False,2.0,1,0.0,,False,False,True,True,False,False,True,False,True,False,False,False
+774,53,1,126.0,43.875,False,106.0,False,0.0,3,0.0,,False,False,True,False,False,False,True,False,False,False,False,False
+775,68,1,138.0,43.875,False,130.0,True,3.0,1,0.0,,False,False,True,False,False,False,True,False,False,True,False,False
+776,53,1,154.0,43.875,,140.0,True,1.5,1,0.0,,False,False,True,False,False,False,False,True,False,True,False,False
+777,60,1,132.13240418118468,316.0,True,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,False,True,False,False,True,True,False,False,False
+778,62,1,132.13240418118468,43.875,False,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,True,False,False,True,False,False,False,False,False
+779,59,1,170.0,43.875,True,120.0,True,0.0,3,0.0,reversable defect,False,False,True,False,False,False,False,False,True,True,False,True
+780,51,1,132.13240418118468,218.0,True,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,False,False,False,False,False,True,False,False,False
+781,61,1,110.0,43.875,,108.0,True,2.0,0,0.0,,False,False,True,False,False,False,True,False,False,True,False,False
+782,57,1,130.0,311.0,,148.0,True,2.0,1,0.0,,False,False,True,False,False,False,False,True,False,True,False,False
+783,56,1,170.0,43.875,False,123.0,True,2.5,3,0.0,,False,False,True,False,True,False,False,False,False,True,False,False
+784,58,1,126.0,43.875,True,110.0,True,2.0,1,0.0,,False,False,True,True,False,False,True,False,True,True,False,False
+785,69,1,140.0,43.875,,118.0,False,2.5,0,0.0,,False,False,True,False,True,False,False,True,False,False,False,False
+786,67,1,142.0,270.0,True,125.0,False,2.5,2,0.0,,False,False,True,False,False,True,True,False,True,False,False,False
+787,58,1,120.0,43.875,False,106.0,True,1.5,0,0.0,reversable defect,False,False,True,False,False,False,False,False,False,True,False,True
+788,65,1,132.13240418118468,43.875,False,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,False,False,False,True,False,False,False,False,False
+789,63,1,132.13240418118468,217.0,True,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,True,False,False,False,True,True,False,False,False
+790,55,1,110.0,214.0,True,180.0,False,0.8787878787878788,3,0.0,,False,False,True,True,False,False,False,True,True,False,False,False
+791,57,1,140.0,214.0,False,144.0,True,2.0,1,0.0,fixed defect,False,False,True,False,False,False,False,True,False,True,False,False
+792,65,1,132.13240418118468,252.0,False,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,False,False,True,True,False,False,False,False,False
+793,54,1,136.0,220.0,False,140.0,True,3.0,1,0.0,,False,False,True,False,False,False,True,False,False,True,False,False
+794,72,1,120.0,214.0,False,102.0,True,1.0,1,0.0,,False,False,True,False,True,False,True,False,False,True,False,False
+795,75,1,170.0,203.0,True,108.0,False,0.0,3,0.0,reversable defect,False,False,True,False,False,False,False,True,True,False,False,True
+796,49,1,130.0,43.875,False,145.0,False,3.0,1,0.0,,False,False,True,False,False,True,False,True,False,False,False,False
+797,51,1,132.13240418118468,339.0,False,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,False,True,False,True,False,False,False,False,False
+798,60,1,142.0,216.0,False,110.0,True,2.5,1,0.0,,False,False,True,False,False,False,True,False,False,True,False,False
+799,64,0,142.0,276.0,False,140.0,True,1.0,1,0.0,reversable defect,False,False,True,False,False,False,True,False,False,True,False,True
+800,58,1,132.0,400.875,True,69.0,False,1.0,0,0.0,,False,False,True,False,False,False,True,False,True,False,False,False
+801,61,1,146.0,241.0,False,148.0,True,3.0,0,0.0,,False,False,True,False,False,False,True,False,False,True,False,False
+802,67,1,160.0,384.0,True,130.0,True,0.0,1,0.0,,False,False,True,False,False,False,False,True,True,True,False,False
+803,62,1,135.0,297.0,False,130.0,True,1.0,1,0.0,,False,False,True,False,False,False,True,False,False,True,False,False
+804,65,1,136.0,248.0,False,140.0,True,3.75,0,0.0,,False,False,True,False,False,False,True,False,False,True,False,False
+805,63,1,130.0,308.0,False,138.0,True,2.0,1,0.0,,False,False,True,False,False,False,True,False,False,True,False,False
+806,69,1,140.0,208.0,False,140.0,True,2.0,3,0.0,,False,False,True,False,False,False,False,True,False,True,False,False
+807,51,1,132.13240418118468,227.0,True,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,False,False,False,False,True,True,False,False,False
+808,62,1,158.0,210.0,True,112.0,True,3.0,0,0.0,,False,False,True,False,False,False,True,False,True,True,False,False
+809,55,1,132.13240418118468,245.0,True,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,False,True,False,False,True,True,False,False,False
+810,75,1,136.0,225.0,False,112.0,True,3.0,1,0.0,,False,False,True,False,False,False,True,False,False,True,False,False
+811,40,1,106.0,240.0,False,80.0,True,0.0,3,0.0,reversable defect,False,False,True,False,True,False,True,False,False,True,False,True
+812,67,1,120.0,43.875,True,150.0,False,1.5,0,0.0,,False,False,True,False,False,False,True,False,True,False,False,False
+813,58,1,110.0,198.0,False,110.0,False,0.0,3,0.0,,False,False,True,False,False,False,True,False,False,False,False,False
+814,60,1,132.13240418118468,195.0,False,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,False,False,False,True,False,False,False,False,False
+815,63,1,160.0,267.0,True,88.0,True,2.0,3,0.0,,False,False,True,False,False,False,False,True,True,True,False,False
+816,35,1,132.13240418118468,161.0,False,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,False,True,False,False,True,False,False,False,False
+817,62,1,112.0,258.0,False,150.0,True,0.8787878787878788,3,0.0,,False,False,True,False,False,True,False,True,False,True,False,False
+818,43,1,122.0,43.875,False,120.0,False,0.5,2,0.0,,False,False,True,False,False,False,True,False,False,False,False,False
+819,63,1,130.0,43.875,True,160.0,False,3.0,1,0.0,,False,False,True,False,True,False,False,True,True,False,False,False
+820,68,1,150.0,195.0,True,132.0,False,0.0,3,0.0,fixed defect,False,False,True,False,True,False,True,False,True,False,False,False
+821,65,1,150.0,235.0,False,120.0,True,1.5,1,0.0,,False,False,True,False,False,False,True,False,False,True,False,False
+822,48,1,102.0,43.875,,110.0,True,1.0,0,0.0,,False,False,True,False,True,False,False,True,False,True,False,False
+823,63,1,96.0,305.0,False,121.0,True,1.0,2,0.0,,False,False,True,False,False,False,False,True,False,True,False,False
+824,64,1,130.0,223.0,False,128.0,False,0.5,1,0.0,,False,False,True,False,False,False,False,True,False,False,False,False
+825,61,1,120.0,282.0,False,135.0,True,3.75,0,0.0,fixed defect,False,False,True,False,False,False,False,True,False,True,False,False
+826,50,1,144.0,349.0,False,120.0,True,1.0,2,0.0,reversable defect,False,False,True,False,False,False,False,False,False,True,False,True
+827,59,1,124.0,199.13033707865168,False,117.0,True,1.0,1,0.0,,False,False,True,False,False,False,True,False,False,True,False,False
+828,55,1,150.0,160.0,False,150.0,False,0.0,3,0.0,,False,False,True,False,False,False,False,True,False,False,False,False
+829,45,1,132.13240418118468,236.0,False,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,False,True,False,True,False,False,False,False,False
+830,65,1,132.13240418118468,312.0,False,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,False,False,False,False,False,False,False,False,False
+831,61,1,132.13240418118468,283.0,False,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,True,False,False,True,False,False,False,False,False
+832,49,1,132.13240418118468,142.0,False,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,False,True,False,True,False,False,False,False,False
+833,72,1,132.13240418118468,211.0,False,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,False,False,False,True,False,False,False,False,False
+834,50,1,132.13240418118468,218.0,False,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,False,False,False,True,False,False,False,False,False
+835,64,1,132.13240418118468,306.0,True,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,False,False,False,False,True,True,False,False,False
+836,55,1,116.0,186.0,True,102.0,False,0.0,3,0.0,,False,False,True,False,False,False,False,True,True,False,False,False
+837,63,1,110.0,252.0,False,140.0,True,2.0,1,0.0,,False,False,True,False,False,False,False,True,False,True,False,False
+838,59,1,125.0,222.0,False,135.0,True,2.5,0,0.0,,False,False,True,False,False,False,True,False,False,True,False,False
+839,56,1,132.13240418118468,43.875,False,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,False,False,False,False,False,False,False,False,False
+840,62,1,132.13240418118468,43.875,True,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,False,True,False,False,True,True,False,False,False
+841,74,1,150.0,258.0,True,130.0,True,3.75,0,0.0,,False,False,True,False,False,False,False,True,True,True,False,False
+842,54,1,130.0,202.0,True,112.0,True,2.0,1,0.0,,False,False,True,False,False,False,True,False,True,True,False,False
+843,57,1,110.0,197.0,False,100.0,False,0.0,3,0.0,,False,False,True,False,False,False,False,False,False,False,False,False
+844,62,1,132.13240418118468,204.0,False,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,False,True,False,False,True,False,False,False,False
+845,76,1,104.0,199.13033707865168,False,120.0,False,3.5,0,0.0,,False,False,True,False,True,False,False,False,False,False,False,False
+846,54,0,138.0,274.0,False,105.0,True,1.5,1,0.0,,False,False,True,False,False,False,True,False,False,True,False,False
+847,70,1,170.0,192.0,False,129.0,True,3.0,0,0.0,,False,False,True,False,False,False,False,True,False,True,False,False
+848,61,0,140.0,298.0,True,120.0,True,0.0,3,0.0,reversable defect,False,False,True,True,False,False,True,False,True,True,False,True
+849,48,1,132.13240418118468,272.0,False,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,False,False,False,False,True,False,False,False,False
+850,48,1,132.0,220.0,True,162.0,False,0.0,3,0.0,fixed defect,False,False,True,False,True,False,False,True,True,False,False,False
+851,61,1,142.0,200.0,True,100.0,False,1.5,0,0.0,,False,False,True,False,False,True,False,True,True,False,False,False
+852,66,1,112.0,261.0,False,140.0,False,1.5,2,0.0,,False,False,True,False,False,False,True,False,False,False,False,False
+853,68,1,132.13240418118468,181.0,True,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,False,False,True,False,True,True,False,False,False
+854,55,1,170.0,260.0,False,73.0,False,2.0,3,0.0,,False,False,True,False,False,False,True,False,False,False,False,False
+855,62,1,120.0,220.0,False,86.0,False,0.0,3,0.0,,False,False,True,False,True,False,False,False,False,False,False,False
+856,71,1,132.13240418118468,221.0,False,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,False,True,False,True,False,False,False,False,False
+857,74,1,132.13240418118468,216.0,True,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,False,False,True,True,False,True,False,False,False
+858,53,1,155.0,175.0,True,160.0,False,0.8787878787878788,3,0.0,fixed defect,False,False,True,False,True,False,False,True,True,False,False,False
+859,58,1,150.0,219.0,False,118.0,True,0.0,3,0.0,,False,False,True,False,True,False,False,True,False,True,False,False
+860,75,1,160.0,310.0,True,112.0,True,2.0,0,0.0,reversable defect,False,False,True,False,False,False,True,False,True,True,False,True
+861,56,1,132.13240418118468,208.0,True,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,False,True,False,False,True,True,False,False,False
+862,58,1,132.13240418118468,232.0,False,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,False,True,False,False,True,False,False,False,False
+863,64,1,134.0,273.0,False,102.0,True,3.75,0,0.0,,False,False,True,False,False,False,True,False,False,True,False,False
+864,54,1,132.13240418118468,203.0,False,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,False,True,False,False,True,False,False,False,False
+865,54,1,132.13240418118468,182.0,False,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,True,False,False,False,True,False,False,False,False
+866,59,1,140.0,274.0,False,154.0,True,2.0,1,0.0,,False,False,True,False,False,False,True,False,False,True,False,False
+867,55,1,132.13240418118468,204.0,True,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,False,False,False,False,True,True,False,False,False
+868,57,1,144.0,270.0,True,160.0,True,2.0,1,0.0,,False,False,True,False,False,False,False,True,True,True,False,False
+869,61,1,132.13240418118468,292.0,False,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,False,False,False,False,True,False,False,False,False
+870,41,1,150.0,171.0,False,128.0,True,1.5,1,0.0,,False,False,True,False,False,False,True,False,False,True,False,False
+871,71,1,130.0,221.0,False,115.0,True,0.0,3,0.0,,False,False,True,False,False,False,False,True,False,True,False,False
+872,38,1,110.0,289.0,False,105.0,True,1.5,0,0.0,,False,False,True,False,False,False,True,False,False,True,False,False
+873,55,1,158.0,217.0,False,110.0,True,2.5,1,0.0,,False,False,True,False,False,False,True,False,False,True,False,False
+874,56,1,128.0,223.0,False,119.0,True,2.0,0,0.0,,False,False,True,False,False,False,False,True,False,True,False,False
+875,69,1,132.13240418118468,199.13033707865168,True,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,False,False,False,True,False,True,False,False,False
+876,64,1,150.0,193.0,False,135.0,True,0.5,1,0.0,,False,False,True,False,False,False,False,True,False,True,False,False
+877,72,1,160.0,199.13033707865168,True,130.0,False,1.5,3,0.0,,False,False,True,False,False,False,False,False,True,False,False,False
+878,69,1,132.13240418118468,210.0,True,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,False,False,False,False,True,True,False,False,False
+879,56,1,132.13240418118468,282.0,True,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,False,False,False,True,False,True,False,False,False
+880,62,1,132.13240418118468,170.0,False,120.0,True,3.0,3,0.0,,False,False,True,False,False,False,False,True,False,True,False,False
+881,67,1,132.13240418118468,369.0,False,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,False,False,False,True,False,False,False,False,False
+882,57,1,156.0,173.0,False,119.0,True,3.0,0,0.0,,False,False,True,False,False,False,False,False,False,True,False,False
+883,69,1,132.13240418118468,289.0,True,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,False,False,False,False,True,True,False,False,False
+884,51,1,132.13240418118468,199.13033707865168,True,137.5456647398844,,0.8787878787878788,3,0.0,reversable defect,False,False,True,False,False,False,False,False,True,False,False,True
+885,48,1,140.0,199.13033707865168,False,159.0,True,1.5,2,0.0,,False,False,True,False,False,False,True,False,False,True,False,False
+886,69,1,122.0,216.0,True,84.0,True,0.0,3,0.0,reversable defect,False,False,True,False,False,False,False,False,True,True,False,True
+887,69,1,132.13240418118468,271.0,False,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,False,True,False,False,False,False,False,False,False
+888,64,1,132.13240418118468,244.0,True,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,False,False,False,False,True,True,False,False,False
+889,57,1,170.0,285.0,True,120.0,False,0.8,3,0.0,,False,False,True,True,False,False,False,True,True,False,False,False
+890,53,1,124.0,243.0,False,122.0,True,2.0,1,0.0,reversable defect,False,False,True,False,False,False,True,False,False,True,False,True
+891,37,1,118.0,240.0,False,165.0,False,1.0,1,0.0,normal,False,False,True,False,True,False,False,False,False,False,True,False
+892,67,1,140.0,219.0,False,122.0,True,2.0,1,0.0,reversable defect,False,False,True,False,False,False,False,True,False,True,False,True
+893,74,1,140.0,237.0,True,94.0,False,0.0,3,0.0,,False,False,True,False,True,False,True,False,True,False,False,False
+894,63,1,132.13240418118468,165.0,False,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,True,False,False,False,True,False,False,False,False
+895,58,1,100.0,213.0,False,110.0,False,0.0,3,0.0,,False,False,True,False,False,False,False,True,False,False,False,False
+896,61,1,170.0,287.0,True,150.0,True,2.0,0,0.0,,False,False,True,False,False,False,False,False,True,True,False,False
+897,64,1,130.0,258.0,True,130.0,False,0.0,3,0.0,fixed defect,False,False,True,False,False,False,False,False,True,False,False,False
+898,58,1,160.0,256.0,True,113.0,True,1.0,2,0.0,,False,False,True,False,False,False,False,False,True,True,False,False
+899,60,1,130.0,186.0,True,140.0,True,0.5,1,0.0,,False,False,True,False,False,False,False,False,True,True,False,False
+900,57,1,122.0,264.0,False,100.0,False,0.0,3,0.0,,False,False,True,False,False,False,False,False,False,False,False,False
+901,55,1,132.13240418118468,199.13033707865168,False,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,False,True,False,False,True,False,False,False,False
+902,55,1,120.0,226.0,False,127.0,True,1.7,0,0.0,reversable defect,False,False,True,False,False,False,False,False,False,True,False,True
+903,56,1,130.0,203.0,True,98.0,False,1.5,1,0.0,reversable defect,False,False,True,False,False,False,True,False,True,False,False,True
+904,57,1,130.0,207.0,False,96.0,True,1.0,1,0.0,,False,False,True,False,False,False,False,True,False,True,False,False
+905,61,1,132.13240418118468,284.0,False,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,False,True,False,True,False,False,False,False,False
+906,61,1,120.0,337.0,False,98.0,True,0.0,3,0.0,,False,False,True,False,True,False,True,False,False,True,False,False
+907,58,1,150.0,219.0,False,118.0,True,0.0,3,0.0,,False,False,True,False,True,False,False,True,False,True,False,False
+908,74,1,155.0,310.0,False,112.0,True,1.5,0,0.0,,False,False,True,False,False,False,True,False,False,True,False,False
+909,68,1,134.0,254.0,True,151.0,True,0.0,3,0.0,normal,False,False,True,False,True,False,True,False,True,True,True,False
+910,51,0,114.0,258.0,True,96.0,False,1.0,2,0.0,,False,False,True,False,False,False,False,False,True,False,False,False
+911,62,1,160.0,254.0,True,108.0,True,3.0,1,0.0,,False,False,True,False,False,False,False,True,True,True,False,False
+912,53,1,144.0,300.0,True,128.0,True,1.5,1,0.0,,False,False,True,False,False,False,False,True,True,True,False,False
+913,62,1,158.0,170.0,False,138.0,True,0.0,3,0.0,,False,False,True,False,False,False,False,True,False,True,False,False
+914,46,1,134.0,310.0,False,126.0,False,0.0,3,0.0,normal,False,False,True,False,False,False,True,False,False,False,True,False
+915,54,0,127.0,333.0,True,154.0,False,0.0,3,0.0,,False,False,True,False,False,False,False,True,True,False,False,False
+916,62,1,132.13240418118468,139.0,False,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,False,False,True,False,True,False,False,False,False
+917,55,1,122.0,223.0,True,100.0,False,0.0,3,0.0,fixed defect,False,False,True,False,False,False,False,True,True,False,False,False
+918,58,1,132.13240418118468,385.0,True,137.5456647398844,,0.8787878787878788,3,0.0,,False,False,True,False,False,False,False,False,True,False,False,False
+919,62,1,120.0,254.0,False,93.0,True,0.0,3,0.0,,False,False,True,True,False,False,False,False,False,True,False,False
